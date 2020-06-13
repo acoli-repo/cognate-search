@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.zip.*;
 
 public class TIADPredictor {
 
@@ -64,6 +65,10 @@ public class TIADPredictor {
 		System.err.print("read embeddings");
 		lang2word2embedding = new Hashtable<String,TreeMap<String,double[]>>();
 		BufferedReader in = new BufferedReader(new FileReader(embeddings));
+		if(embeddings.toLowerCase().endsWith("gz")) {
+			in.close();
+			in = new BufferedReader(new InputStreamReader(new GZIPInputStream(new FileInputStream(embeddings))));
+		}
 		int entries = 0;
 		for(String line = ""; line!=null; line=in.readLine()) {
 			String word = line.replaceFirst("^(\"[^\"]*\"@[^\\s]+)\\s.*","$1");
@@ -95,10 +100,10 @@ public class TIADPredictor {
 		
 		int matches = 10;
 		
-		System.err.println("synopsis: TIADPredictor embeddings.tsv lang [DICT1.tsv .. DICTn.tsv]\n"+
-			"\tembeddings.tsv uncompressed TSV file containing the embeddings\n"+
-			"\tlang           target language, BCP47 code\n"+
-			"\tDICTi.tsv      dictionary in TSV format, using the same columns as TIADEmbedder\n"+
+		System.err.println("synopsis: TIADPredictor EMBEDDINGS lang [DICT1.tsv .. DICTn.tsv]\n"+
+			"\tEMBEDDINGS TSV (text) file containing the embeddings, either plain text or gzipped\n"+
+			"\tlang       target language, BCP47 code\n"+
+			"\tDICTi.tsv  dictionary in TSV format, using the same columns as TIADEmbedder\n"+
 			"Note that we expect words \"$WORD\"@lang as input and as first column in embeddings.tsv.\n"+
 			"We read source words from stdin\n"+
 			"Return the "+matches+" best matches for the input word.\n"+

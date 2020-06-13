@@ -1,0 +1,16 @@
+French	7238
+Latin	5402
+West Germanic	1665
+Greek	1051
+Romance (other)	565
+North Germanic	254
+Semitic	203
+Celtic	125
+Indian	101
+East Asian	74
+Slavic	63
+Altaic	26
+Iranian	26
+other	23
+Uralic	4
+Baltic	2

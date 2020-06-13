@@ -14,10 +14,10 @@ public class Cognator {
 		
 		int matches = 10;
 		
-		System.err.println("synopsis: Cognator embeddings.tsv lang [DICT1.tsv .. DICTn.tsv]\n"+
-			"\tembeddings.tsv uncompressed TSV file containing the embeddings\n"+
-			"\tlang           target language, BCP47 code\n"+
-			"\tDICTi.tsv      dictionary in TSV format, using the same columns as TIADEmbedder\n"+
+		System.err.println("synopsis: Cognator EMBEDDINGS lang [DICT1.tsv .. DICTn.tsv]\n"+
+			"\tEMBEDDINGS TSV (text) file containing the embeddings, either plain text or gzipped\n"+
+			"\tlang       target language, BCP47 code\n"+
+			"\tDICTi.tsv  dictionary in TSV format, using the same columns as TIADEmbedder\n"+
 			"Note that we expect words \"$WORD\"@lang as input and as first column in embeddings.tsv.\n"+
 			"We read source words from stdin\n"+
 			"Return the "+matches+" best matches for the input word, ranked for semantic and orthographic similarity.");
