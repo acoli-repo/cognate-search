@@ -1,387 +1,387 @@
-# origin	frequency	classification
-Old French 	3988	French
-Latin 	3818	Latin
-French 	2380	French
-Middle French 	1163	French
-Greek 	1085	Greek
-Late Latin 	765	Latin
-Old English 	711	West Germanic
-Medieval Latin 	610	Latin
-German 	339	West Germanic
-Italian 	292	Romance (other)
-Modern Latin 	280	Latin
-Old Norse 	232	North Germanic
-Middle English 	201	West Germanic
-Latinized form of Greek 	186	Latin
-Spanish 	179	Romance (other)
-Dutch 	111	West Germanic
-Hebrew 	97	Semitic
-Arabic 	94	Semitic
-Middle Dutch 	78	West Germanic
-Old North French 	73	French
-West Germanic 	58	West Germanic
-Sanskrit 	57	Indian
-Russian 	52	Slavic
-Hindi 	46	Indian
-Portuguese 	43	Romance (other)
-Irish 	42	Celtic
-Yiddish 	36	West Germanic
-Japanese 	36	East Asian
-Gaelic 	33	Celtic
-PIE 	30	West Germanic
-Old High German 	30	West Germanic
-American Spanish 	29	Romance (other)
-PIE root 	28	West Germanic
-Turkish 	24	Altaic
-Church Latin 	22	Latin
-Chinese 	22	East Asian
-Persian 	20	Iranian
-Latin stem of 	20	Latin
-Middle Low German 	19	West Germanic
-Low German 	19	West Germanic
-Mexican Spanish 	17	Romance (other)
-Welsh 	16	Celtic
-Vulgar Latin 	16	Latin
-Latinized combining form of Greek 	16	Latin
-Middle Dutch or Middle Low German 	15	West Germanic
-Scottish 	11	West Germanic
-Old Irish 	11	Celtic
-Danish 	11	North Germanic
-Celtic 	11	Celtic
-Swedish 	9	North Germanic
-Spanish or Portuguese 	7	Romance (other)
-Old Persian 	7	Iranian
-Norwegian 	7	North Germanic
-Latinized form of 	7	Latin
-Hawaiian 	7	other
-Flemish 	7	West Germanic
-Canadian French 	7	French
-Polish 	6	Slavic
-Latin phrase 	6	Latin
-Dutch or Low German 	6	West Germanic
-Spanish and Portuguese 	5	Romance (other)
-Old Church Slavonic 	5	Slavic
-Modern Hebrew 	5	Semitic
-Middle Low German or Middle Dutch 	5	West Germanic
-Gaulish 	5	Celtic
-Cantonese 	5	East Asian
-Afrikaans 	5	West Germanic
-Tagalog 	4	East Asian
-Phoenician 	4	Semitic
-Pennsylvania German 	4	West Germanic
-Old Italian 	4	Romance (other)
-Modern Greek 	4	Greek
-Middle High German 	4	West Germanic
-Middle English verb 	4	West Germanic
-Middle English noun 	4	West Germanic
-Louisiana French 	4	French
-Late Greek 	4	Greek
-Ecclesiastical Greek 	4	Greek
-Algonquian 	4	other
-Urdu 	3	Indian
-Tibetan 	3	East Asian
-Roman 	3	Latin
-Portuguese or Spanish 	3	Romance (other)
-Old English noun 	3	West Germanic
-Old Danish 	3	North Germanic
-Muskogee 	3	other
-Modern Latin genus name 	3	Latin
-Middle English adjective 	3	West Germanic
-Irish and Gaelic 	3	Celtic
-Germanic 	3	West Germanic
-Egyptian 	3	other
-Dutch or Flemish 	3	West Germanic
-Cornish 	3	Celtic
-Celtic root 	3	Celtic
-Akkadian 	3	Semitic
-Zulu 	2	other
-Vietnamese 	2	East Asian
-Turkic 	2	Altaic
-Serbian 	2	Slavic
-Semitic root 	2	Semitic
-Scottish dialectal 	2	West Germanic
-Rabbinical Hebrew 	2	Semitic
-Old French dialectal 	2	French
-Old French and French 	2	French
-Old English phrase 	2	West Germanic
-Old Dutch 	2	West Germanic
-Old Celtic 	2	Celtic
-Narragansett 	2	other
-Mongolian 	2	Altaic
-Mishnaic Hebrew 	2	Semitic
-Middle Flemish 	2	West Germanic
-Middle English phrase 	2	West Germanic
-Marathi 	2	Indian
-Malay 	2	East Asian
-Lithuanian 	2	Baltic
-Latin preposition 	2	Latin
-Latin plural of 	2	Latin
-Latin noun use of adjective 	2	Latin
-Korean 	2	East Asian
-Italian or Spanish 	2	Romance (other)
-Icelandic 	2	North Germanic
-Hungarian 	2	Uralic
-Hindi or Urdu 	2	Indian
-Gujarati 	2	Indian
-Gaelic and Irish 	2	Celtic
-French phrase 	2	French
-French or German 	2	French
-French form of 	2	French
-French and Old French 	2	French
-Finnish 	2	Uralic
-Eskimo 	2	other
-English 	2	West Germanic
-Czech 	2	Slavic
-Croatian 	2	Slavic
-Catalan 	2	Romance (other)
-West Midlands dialect 	1	West Germanic
-West Indies 	1	other
-West Indian Spanish 	1	Romance (other)
-West Germanic compound 	1	West Germanic
-West Flemish 	1	West Germanic
-Welsh surname 	1	Cek
-Washo 	1	other
-Walloon 	1	French
-Vogul 	1	Uralic
-Venetian dialect 	1	Romance (other)
-Urdu and Persian 	1	Iranian
-Ugaritic base 	1	Semitic
-Turkish pronunciation of Persian and Arabic 	1	Altaic
-Turkish pronunciation of Persian 	1	Altaic
-Tupi 	1	other
-Tunguse 	1	Altaic
-Thracian Greek 	1	Greek
-Thai 	1	East Asian
-Tajik 	1	Iranian
-Tagalog form of obsolete Spanish 	1	East Asian
-Swiss French 	1	French
-Swiss dialect 	1	West Germanic
-Spanish or Italian 	1	Romance (other)
-Spanish or American Spanish 	1	Romance (other)
-Spanish and Portuguese plural of 	1	Romance (other)
-Spanish and Italian form of 	1	Romance (other)
-Southern Chinookan 	1	other
-South African Dutch 	1	West Germanic
-Slavic root 	1	Slavic
-Slavic 	1	Slavic
-Sinhalese 	1	Indian
-Semitic 	1	Semitic
-Scottish word 	1	West Germanic
-Scottish Gaelic 	1	Celtic
-Scottish and Northern English 	1	West Germanic
-Scandinavian base 	1	North Germanic
-Scandinavian and cognate with the 	1	North Germanic
-Savoy French 	1	French
-Salishan 	1	other
-Sahaptin 	1	other
-Russian pet form of 	1	Slavic
-Russian initials of 	1	Slavic
-Russian actor and director Konstantin 	1	Slavic
-Russian abbreviation of 	1	Slavic
-Romany 	1	Indian
-Pueblo 	1	other
-Potawatomi 	1	other
-Portuguese alteration of 	1	Romance (other)
-PIE verbal stem 	1	West Germanic
-PIE pronominal stem 	1	West Germanic
-PIE imitative root 	1	West Germanic
-PIE demonstrative stem 	1	West Germanic
-PIE adjectival suffix 	1	West Germanic
-Persian and Urdu 	1	Iranian
-Pali 	1	Indian
-Oscan 	1	Latin
-Onondaga 	1	other
-Oneida 	1	other
-Omaha 	1	other
-Old Spanish 	1	Romance (other)
-Old Serbian 	1	Slavic
-Old Saxon 	1	West Germanic
-Old Russian 	1	Slavic
-Old North French form of Old High German 	1	French
-Old Norse plural of 	1	North Germanic
-Old Norse or Old Danish 	1	North Germanic
-Old Norse and connected with Norwegian dialectal 	1	North Germanic
-Old Italian or Medieval Latin 	1	Latin
-Old Greek 	1	Greek
-Old Gaelic 	1	Celtic
-Old Frisian 	1	West Germanic
-Old French verb 	1	French
-Old French such as 	1	French
-Old French or Medieval Latin usually already had been leveled to 	1	Latin
-Old French form of Welsh 	1	French
-Old English verb 	1	West Germanic
-Old English use of 	1	West Germanic
-Old English plural 	1	West Germanic
-Old English past tense of 	1	West Germanic
-Old English past participle 	1	West Germanic
-Old English or Old Norse 	1	West Germanic
-Old English conjunction 	1	West Germanic
-Old English also had a verb 	1	West Germanic
-Old English adjective 	1	West Germanic
-Old Breton 	1	Celtic
-Ojibwa 	1	othe
-Occitan 	1	Romance (other)
-O French 	1	French
-Northern English dialect 	1	West Germanic
-North Germanic 	1	North Germanic
-North Frisian 	1	West Germanic
-Norse 	1	North Germanic
-Norman French 	1	French
-Norman form of Old Norse 	1	North Germanic
-New York dialect 	1	other
-New Orleans French 	1	French
-New England Algonquian 	1	other
-Nepalese 	1	East Asian
-Neapolitan 	1	Romance (other)
-Navajo 	1	other
-Mwdieval Latin 	1	Latin
-Modernl Latin 	1	Latin
-Modern Latin special use of Latin 	1	Latin
-Modern Latin plural 	1	Latin
-Modern Latin order name 	1	Latin
-Modern Latin noun use of Latin 	1	Latin
-Modern Irish 	1	Celtic
-ModE 	1	West Germanic
-Milanese dialect 	1	Romance (other)
-Middle Welsh 	1	Celtic
-Middle Low German and Middle Dutch 	1	West Germanic
-Middle Latin 	1	Latin
-Middle French noun use of 	1	French
-Middle English past participle of 	1	West Germanic
-Middle English manuscripts include 	1	West Germanic
-Middle English as Northern English and Scottish form of 	1	West Germanic
-Middle Dutch or Middle Flemish 	1	West Germanic
-Middle Dutch or Low German 	1	West Germanic
-Middle Dutch or Flemish 	1	West Germanic
-Mexican Spanish dialectal pronunciation of 	1	Romance (other)
-Medieval Latin stem of 	1	Latin
-Medieval Latin or Italian 	1	Latin
-Medieval Latin alteration of Greek 	1	Latin
-Medieval Latin ablative of 	1	Latin
-Medieval Greek 	1	Greek
-Medeival Latin 	1	Latin
-Maori 	1	other
-Mandarin 	1	East Asian
-Malagasy 	1	other
-Latinized plural of Greek 	1	Latin
-Latinized name of Michel de 	1	Latin
-Latinized forms of Greek 	1	Latin
-Latinized form of the name of Gabriello 	1	Latin
-Latinized form of surname of Robert 	1	Latin
-Latinized form of surname of Georg Joseph 	1	Latin
-Latinized form of Spanish 	1	Latin
-Latinized form of name of Antonio 	1	Latin
-Latinized form of Greek elements 	1	Latin
-Latinized form of Greek adverb 	1	Latin
-Latinized form of German 	1	Latin
-Latinized form of French 	1	Latin
-Latinized form of Ecclesiastical Greek 	1	Latin
-Latinized corruption of Arabic 	1	Latin
-Latinized compound of Greek 	1	Latin
-Latinized combining form of 	1	Latin
-Latinizations of Greek 	1	Latin
-Latin words ending in 	1	Latin
-Latin third person singular of 	1	Latin
-Latin stem 	1	Latin
-Latin source of 	1	Latin
-Latin form of the name of 	1	Latin
-Latin form of Greek 	1	Latin
-Latin constellation name 	1	Latin
-Latin combining form of 	1	Latin
-Latin adverb and preposition 	1	Latin
-Latin adjectival suffix 	1	Latin
-Late Latin or Medieval Latin 	1	Latin
-Late Latin noun use of Latin 	1	Latin
-Late Latin adjective 	1	Latin
-Late Hebrew 	1	Semitic
-Kongo 	1	oth
-Kentish and northern English forms of Old English 	1	West Germanic
-Jawaharlal 	1	other
-Javanese 	1	other
-Japanese ophthalmologist Shinobu 	1	East Asian
-Italian plural of 	1	Romance (other)
-Italian or French 	1	French
-Irish Latin 	1	Latin
-Irish Gaelic 	1	Celtic
-Inupiaq Eskimo 	1	other
-Ido 	1	other
-Hindustani 	1	Indian
-Haitian or Dominican Creole 	1	French
-Guarani 	1	Indian
-Greenland Eskimo 	1	other
-Greek stem 	1	Greek
-Greek letter 	1	Greek
-Greek form of Hebrew 	1	Semitic
-Greek form of 	1	Greek
-Greek elements 	1	Greek
-Greek diminutive of 	1	Greek
-Germanic stem 	1	West Germanic
-Germanic elements 	1	West Germanic
-Germanic abstract noun 	1	West Germanic
-German slang 	1	West Germanic
-German shortening of 	1	West Germanic
-German printer and bookseller Karl 	1	West Germanic
-German or French 	1	West Germanic
-German diminutive of 	1	West Germanic
-German dialectal diminutive of 	1	West Germanic
-German bacteriologist August Paul 	1	West Germanic
-German and Dutch 	1	West Germanic
-French that is related to 	1	French
-French slang 	1	French
-French noun use of Middle French 	1	French
-French noun use of 	1	French
-French form of Medieval Latin 	1	French
-French cooking term 	1	French
-French Canadian 	1	French
-French assimilation of 	1	French
-French abbreviation of 	1	French
-Frankish 	1	West Germanic
-Florenz 	1	Romance (other)
-Flemish and Dutch 	1	West Germanic
-Faeroese 	1	North Germanic
-Estonian 	1	Uralic
-English pronunciation of French 	1	French
-Egyptian Arabic 	1	Semitic
-Eastern Polynesian 	1	other
-East Yiddish 	1	West Germanic
-East Frisian 	1	West Germanic
-East Anglian dialectic 	1	West Germanic
-East Anglian dialectal 	1	West Germanic
-Dutch form of 	1	West Germanic
-Dutch dialect 	1	West Germanic
-Dravidian 	1	Indian
-Danish phrase 	1	North Germanic
-Danish and Norwegian 	1	North Germanic
-Dakota 	1	other
-Cuban Spanish 	1	Romance (other)
-Creole French pronunciation of French 	1	French
-Chinook jargon 	1	other
-Chinese pidgin English 	1	East Asian
-Chickasaw 	1	other
-Cherokee t	1	other
-Carib 	1	other
-Cantonese t	1	East Asian
-Cantonese pronunciation of Chinese 	1	East Asian
-Canadian French variant of French 	1	French
-Canadian French dialectal 	1	French
-Cambodian 	1	East Asian
-Burmese 	1	East Asian
-Bulgarian 	1	Slavic
-Biblical name 	1	Greek
-Biblical 	1	Greek
-Bengali 	1	Indian
-Basque 	1	other
-Bantu 	1	other
-Babylonian 	1	Semitic
-Assyrian 	1	Semitic
-Armenian 	1	other
-Argentine Spanish 	1	Romance (other)
-Arabic plural of 	1	Semitic
-Arabic or Persian 	1	Semitic
-Apalachee 	1	other
-Amharic 	1	Semitic
-American Yiddish 	1	West Germanic
-American Spanish cognate of 	1	Romance (other)
-Aleut 	1	other
-Afrikaans Dutch 	1	West Germanic
-Aborigine 	1	other
+# origin	classification	frequency
+Old French 	French	3988
+French 	French	2380
+Middle French 	French	1163
+Old North French 	French	73
+Canadian French 	French	7
+Louisiana French 	French	4
+French and Old French 	French	2
+French form of 	French	2
+French or German 	French	2
+French phrase 	French	2
+Old French and French 	French	2
+Old French dialectal 	French	2
+Canadian French dialectal 	French	1
+Canadian French variant of French 	French	1
+Creole French pronunciation of French 	French	1
+English pronunciation of French 	French	1
+French abbreviation of 	French	1
+French assimilation of 	French	1
+French Canadian 	French	1
+French cooking term 	French	1
+French form of Medieval Latin 	French	1
+French noun use of 	French	1
+French noun use of Middle French 	French	1
+French slang 	French	1
+French that is related to 	French	1
+Haitian or Dominican Creole 	French	1
+Italian or French 	French	1
+Middle French noun use of 	French	1
+New Orleans French 	French	1
+Norman French 	French	1
+O French 	French	1
+Old French form of Welsh 	French	1
+Old French such as 	French	1
+Old French verb 	French	1
+Old North French form of Old High German 	French	1
+Savoy French 	French	1
+Swiss French 	French	1
+Walloon 	French	1
+Latin 	Latin	3818
+Late Latin 	Latin	765
+Medieval Latin 	Latin	610
+Modern Latin 	Latin	280
+Latinized form of Greek 	Latin	186
+Church Latin 	Latin	22
+Latin stem of 	Latin	20
+Latinized combining form of Greek 	Latin	16
+Vulgar Latin 	Latin	16
+Latinized form of 	Latin	7
+Latin phrase 	Latin	6
+Modern Latin genus name 	Latin	3
+Roman 	Latin	3
+Latin noun use of adjective 	Latin	2
+Latin plural of 	Latin	2
+Latin preposition 	Latin	2
+Irish Latin 	Latin	1
+Late Latin adjective 	Latin	1
+Late Latin noun use of Latin 	Latin	1
+Late Latin or Medieval Latin 	Latin	1
+Latin adjectival suffix 	Latin	1
+Latin adverb and preposition 	Latin	1
+Latin combining form of 	Latin	1
+Latin constellation name 	Latin	1
+Latin form of Greek 	Latin	1
+Latin form of the name of 	Latin	1
+Latin source of 	Latin	1
+Latin stem 	Latin	1
+Latin third person singular of 	Latin	1
+Latin words ending in 	Latin	1
+Latinizations of Greek 	Latin	1
+Latinized combining form of 	Latin	1
+Latinized compound of Greek 	Latin	1
+Latinized corruption of Arabic 	Latin	1
+Latinized form of Ecclesiastical Greek 	Latin	1
+Latinized form of French 	Latin	1
+Latinized form of German 	Latin	1
+Latinized form of Greek adverb 	Latin	1
+Latinized form of Greek elements 	Latin	1
+Latinized form of name of Antonio 	Latin	1
+Latinized form of Spanish 	Latin	1
+Latinized form of surname of Georg Joseph 	Latin	1
+Latinized form of surname of Robert 	Latin	1
+Latinized form of the name of Gabriello 	Latin	1
+Latinized forms of Greek 	Latin	1
+Latinized name of Michel de 	Latin	1
+Latinized plural of Greek 	Latin	1
+Medeival Latin 	Latin	1
+Medieval Latin ablative of 	Latin	1
+Medieval Latin alteration of Greek 	Latin	1
+Medieval Latin or Italian 	Latin	1
+Medieval Latin stem of 	Latin	1
+Middle Latin 	Latin	1
+Modern Latin noun use of Latin 	Latin	1
+Modern Latin order name 	Latin	1
+Modern Latin plural 	Latin	1
+Modern Latin special use of Latin 	Latin	1
+Modernl Latin 	Latin	1
+Mwdieval Latin 	Latin	1
+Old French or Medieval Latin usually already had been leveled to 	Latin	1
+Old Italian or Medieval Latin 	Latin	1
+Oscan 	Latin	1
+Old English 	West Germanic	711
+German 	West Germanic	339
+Middle English 	West Germanic	201
+Dutch 	West Germanic	111
+Middle Dutch 	West Germanic	78
+West Germanic 	West Germanic	58
+Yiddish 	West Germanic	36
+Old High German 	West Germanic	30
+PIE 	West Germanic	30
+PIE root 	West Germanic	28
+Low German 	West Germanic	19
+Middle Low German 	West Germanic	19
+Middle Dutch or Middle Low German 	West Germanic	15
+Scottish 	West Germanic	11
+Flemish 	West Germanic	7
+Dutch or Low German 	West Germanic	6
+Afrikaans 	West Germanic	5
+Middle Low German or Middle Dutch 	West Germanic	5
+Middle English noun 	West Germanic	4
+Middle English verb 	West Germanic	4
+Middle High German 	West Germanic	4
+Pennsylvania German 	West Germanic	4
+Dutch or Flemish 	West Germanic	3
+Germanic 	West Germanic	3
+Middle English adjective 	West Germanic	3
+Old English noun 	West Germanic	3
+English 	West Germanic	2
+Middle English phrase 	West Germanic	2
+Middle Flemish 	West Germanic	2
+Old Dutch 	West Germanic	2
+Old English phrase 	West Germanic	2
+Scottish dialectal 	West Germanic	2
+Afrikaans Dutch 	West Germanic	1
+American Yiddish 	West Germanic	1
+Dutch dialect 	West Germanic	1
+Dutch form of 	West Germanic	1
+East Anglian dialectal 	West Germanic	1
+East Anglian dialectic 	West Germanic	1
+East Frisian 	West Germanic	1
+East Yiddish 	West Germanic	1
+Flemish and Dutch 	West Germanic	1
+Frankish 	West Germanic	1
+German and Dutch 	West Germanic	1
+German bacteriologist August Paul 	West Germanic	1
+German dialectal diminutive of 	West Germanic	1
+German diminutive of 	West Germanic	1
+German or French 	West Germanic	1
+German printer and bookseller Karl 	West Germanic	1
+German shortening of 	West Germanic	1
+German slang 	West Germanic	1
+Germanic abstract noun 	West Germanic	1
+Germanic elements 	West Germanic	1
+Germanic stem 	West Germanic	1
+Kentish and northern English forms of Old English 	West Germanic	1
+Middle Dutch or Flemish 	West Germanic	1
+Middle Dutch or Low German 	West Germanic	1
+Middle Dutch or Middle Flemish 	West Germanic	1
+Middle English as Northern English and Scottish form of 	West Germanic	1
+Middle English manuscripts include 	West Germanic	1
+Middle English past participle of 	West Germanic	1
+Middle Low German and Middle Dutch 	West Germanic	1
+ModE 	West Germanic	1
+North Frisian 	West Germanic	1
+Northern English dialect 	West Germanic	1
+Old English adjective 	West Germanic	1
+Old English also had a verb 	West Germanic	1
+Old English conjunction 	West Germanic	1
+Old English or Old Norse 	West Germanic	1
+Old English past participle 	West Germanic	1
+Old English past tense of 	West Germanic	1
+Old English plural 	West Germanic	1
+Old English use of 	West Germanic	1
+Old English verb 	West Germanic	1
+Old Frisian 	West Germanic	1
+Old Saxon 	West Germanic	1
+PIE adjectival suffix 	West Germanic	1
+PIE demonstrative stem 	West Germanic	1
+PIE imitative root 	West Germanic	1
+PIE pronominal stem 	West Germanic	1
+PIE verbal stem 	West Germanic	1
+Scottish and Northern English 	West Germanic	1
+Scottish word 	West Germanic	1
+South African Dutch 	West Germanic	1
+Swiss dialect 	West Germanic	1
+West Flemish 	West Germanic	1
+West Germanic compound 	West Germanic	1
+West Midlands dialect 	West Germanic	1
+Greek 	Greek	1085
+Ecclesiastical Greek 	Greek	4
+Late Greek 	Greek	4
+Modern Greek 	Greek	4
+Biblical 	Greek	1
+Biblical name 	Greek	1
+Greek diminutive of 	Greek	1
+Greek elements 	Greek	1
+Greek form of 	Greek	1
+Greek letter 	Greek	1
+Greek stem 	Greek	1
+Medieval Greek 	Greek	1
+Old Greek 	Greek	1
+Thracian Greek 	Greek	1
+Italian 	Romance (other)	292
+Spanish 	Romance (other)	179
+Portuguese 	Romance (other)	43
+American Spanish 	Romance (other)	29
+Mexican Spanish 	Romance (other)	17
+Spanish or Portuguese 	Romance (other)	7
+Spanish and Portuguese 	Romance (other)	5
+Old Italian 	Romance (other)	4
+Portuguese or Spanish 	Romance (other)	3
+Catalan 	Romance (other)	2
+Italian or Spanish 	Romance (other)	2
+American Spanish cognate of 	Romance (other)	1
+Argentine Spanish 	Romance (other)	1
+Cuban Spanish 	Romance (other)	1
+Florenz 	Romance (other)	1
+Italian plural of 	Romance (other)	1
+Mexican Spanish dialectal pronunciation of 	Romance (other)	1
+Milanese dialect 	Romance (other)	1
+Neapolitan 	Romance (other)	1
+Occitan 	Romance (other)	1
+Old Spanish 	Romance (other)	1
+Portuguese alteration of 	Romance (other)	1
+Spanish and Italian form of 	Romance (other)	1
+Spanish and Portuguese plural of 	Romance (other)	1
+Spanish or American Spanish 	Romance (other)	1
+Spanish or Italian 	Romance (other)	1
+Venetian dialect 	Romance (other)	1
+West Indian Spanish 	Romance (other)	1
+Old Norse 	North Germanic	232
+Danish 	North Germanic	11
+Swedish 	North Germanic	9
+Norwegian 	North Germanic	7
+Old Danish 	North Germanic	3
+Icelandic 	North Germanic	2
+Danish and Norwegian 	North Germanic	1
+Danish phrase 	North Germanic	1
+Faeroese 	North Germanic	1
+Norman form of Old Norse 	North Germanic	1
+Norse 	North Germanic	1
+North Germanic 	North Germanic	1
+Old Norse and connected with Norwegian dialectal 	North Germanic	1
+Old Norse or Old Danish 	North Germanic	1
+Old Norse plural of 	North Germanic	1
+Scandinavian and cognate with the 	North Germanic	1
+Scandinavian base 	North Germanic	1
+Hebrew 	Semitic	97
+Arabic 	Semitic	94
+Modern Hebrew 	Semitic	5
+Phoenician 	Semitic	4
+Akkadian 	Semitic	3
+Mishnaic Hebrew 	Semitic	2
+Rabbinical Hebrew 	Semitic	2
+Semitic root 	Semitic	2
+Amharic 	Semitic	1
+Arabic or Persian 	Semitic	1
+Arabic plural of 	Semitic	1
+Assyrian 	Semitic	1
+Babylonian 	Semitic	1
+Egyptian Arabic 	Semitic	1
+Greek form of Hebrew 	Semitic	1
+Late Hebrew 	Semitic	1
+Semitic 	Semitic	1
+Ugaritic base 	Semitic	1
+Irish 	Celtic	42
+Gaelic 	Celtic	33
+Welsh 	Celtic	16
+Celtic 	Celtic	11
+Old Irish 	Celtic	11
+Gaulish 	Celtic	5
+Celtic root 	Celtic	3
+Cornish 	Celtic	3
+Irish and Gaelic 	Celtic	3
+Gaelic and Irish 	Celtic	2
+Old Celtic 	Celtic	2
+Irish Gaelic 	Celtic	1
+Middle Welsh 	Celtic	1
+Modern Irish 	Celtic	1
+Old Breton 	Celtic	1
+Old Gaelic 	Celtic	1
+Scottish Gaelic 	Celtic	1
+Welsh surname 	Celtic	1
+Sanskrit 	Indian	57
+Hindi 	Indian	46
+Urdu 	Indian	3
+Gujarati 	Indian	2
+Hindi or Urdu 	Indian	2
+Marathi 	Indian	2
+Bengali 	Indian	1
+Dravidian 	Indian	1
+Guarani 	Indian	1
+Hindustani 	Indian	1
+Pali 	Indian	1
+Romany 	Indian	1
+Sinhalese 	Indian	1
+Japanese 	East Asian	36
+Chinese 	East Asian	22
+Cantonese 	East Asian	5
+Tagalog 	East Asian	4
+Tibetan 	East Asian	3
+Korean 	East Asian	2
+Malay 	East Asian	2
+Vietnamese 	East Asian	2
+Burmese 	East Asian	1
+Cambodian 	East Asian	1
+Cantonese pronunciation of Chinese 	East Asian	1
+Cantonese t	East Asian	1
+Chinese pidgin English 	East Asian	1
+Japanese ophthalmologist Shinobu 	East Asian	1
+Mandarin 	East Asian	1
+Nepalese 	East Asian	1
+Tagalog form of obsolete Spanish 	East Asian	1
+Thai 	East Asian	1
+Russian 	Slavic	52
+Polish 	Slavic	6
+Old Church Slavonic 	Slavic	5
+Croatian 	Slavic	2
+Czech 	Slavic	2
+Serbian 	Slavic	2
+Bulgarian 	Slavic	1
+Old Russian 	Slavic	1
+Old Serbian 	Slavic	1
+Russian abbreviation of 	Slavic	1
+Russian actor and director Konstantin 	Slavic	1
+Russian initials of 	Slavic	1
+Russian pet form of 	Slavic	1
+Slavic 	Slavic	1
+Slavic root 	Slavic	1
+Turkish 	Altaic	24
+Mongolian 	Altaic	2
+Turkic 	Altaic	2
+Tunguse 	Altaic	1
+Turkish pronunciation of Persian 	Altaic	1
+Turkish pronunciation of Persian and Arabic 	Altaic	1
+Persian 	Iranian	20
+Old Persian 	Iranian	7
+Persian and Urdu 	Iranian	1
+Tajik 	Iranian	1
+Urdu and Persian 	Iranian	1
+Finnish 	Uralic	2
+Hungarian 	Uralic	2
+Estonian 	Uralic	1
+Vogul 	Uralic	1
+Lithuanian 	Baltic	2
+Hawaiian 	other	7
+Algonquian 	other	4
+Egyptian 	other	3
+Muskogee 	other	3
+Eskimo 	other	2
+Narragansett 	other	2
+Zulu 	other	2
+Aborigine 	other	1
+Aleut 	other	1
+Apalachee 	other	1
+Armenian 	other	1
+Bantu 	other	1
+Basque 	other	1
+Carib 	other	1
+Cherokee t	other	1
+Chickasaw 	other	1
+Chinook jargon 	other	1
+Dakota 	other	1
+Eastern Polynesian 	other	1
+Greenland Eskimo 	other	1
+Ido 	other	1
+Inupiaq Eskimo 	other	1
+Javanese 	other	1
+Jawaharlal 	other	1
+Kongo 	other	1
+Malagasy 	other	1
+Maori 	other	1
+Navajo 	other	1
+New England Algonquian 	other	1
+New York dialect 	other	1
+Ojibwa 	other	1
+Omaha 	other	1
+Oneida 	other	1
+Onondaga 	other	1
+Potawatomi 	other	1
+Pueblo 	other	1
+Sahaptin 	other	1
+Salishan 	other	1
+Southern Chinookan 	other	1
+Tupi 	other	1
+Washo 	other	1
+West Indies 	other	1

@@ -1,0 +1,3622 @@
+a-	Latin
+abalienation	Latin
+abandonment	French
+abatement	French
+abatis	French
+abattoir	French
+abaxile	Latin
+abbreviation	French
+abduce	Latin
+abecedary	Latin
+Abigail	Semitic
+abject	Latin
+Abner	Semitic
+abortive	Latin
+Abraham	Semitic
+abruption	Latin
+abscind	Latin
+abscond	French
+absorption	Latin
+abstinence	French
+absurd	French
+abundant	French
+abuse	French
+acacia	Latin
+accelerator	Latin
+accidence	Latin
+acclivity	Latin
+accompany	French
+accost	French
+account	French
+accountant	French
+accrue	French
+accuse	French
+acervulus	West Germanic
+acetification	Latin
+acetone	Latin
+Achates	Greek
+Acheron	Greek
+acidulate	Latin
+acolyte	French
+acomia	Greek
+acquaintance	French
+acquire	French
+acrobat	French
+active	French
+activity	French
+actuate	Latin
+aculeate	Latin
+acupressure	Latin
+adage	Latin
+adherent	French
+adjoin	French
+adjournment	French
+adjure	Latin
+administer	French
+administrate	Latin
+administrative	Latin
+admiralty	French
+admonition	French
+adroit	French
+adultery	French
+adumbration	Latin
+advise	French
+advocacy	French
+Aeolian	Latin
+aerial	Latin
+aero-	Greek
+aeroplane	French
+Aesir	North Germanic
+afanc	Celtic
+affability	French
+affirmation	French
+affluence	French
+afford	West Germanic
+Afric	Latin
+Afrikaans	West Germanic
+Afrikander	West Germanic
+aga	Altaic
+agape	Greek
+agave	Latin
+age	French
+agglomerate	Latin
+aggrandize	French
+aggravate	Latin
+agora	Greek
+agreeance	French
+agro-	Greek
+agronomy	French
+aikido	East Asian
+ajar	West Germanic
+alabastrine	Latin
+Alan	Celtic
+alate	Latin
+alb	Latin
+album	Latin
+Alexandrine	French
+alexia	Greek
+alfalfa	Romance (other)
+algebra	Latin
+alias	Latin
+alkahest	French
+allay	West Germanic
+allege	Latin
+allegro	Romance (other)
+alleluia	Latin
+alliance	French
+alligator	Latin
+alloy	French
+allusive	Latin
+Almagest	French
+almonry	French
+Alpine	Latin
+Altaic	French
+alternation	French
+alto	Romance (other)
+altruism	French
+altruist	French
+alumnus	Latin
+amah	Romance (other)
+amaranth	French
+amatory	Latin
+Amazon	Greek
+ambiguity	French
+ame damnee	French
+ament	Latin
+America	Latin
+Amiens	Celtic
+amnesty	French
+amnion	Greek
+amortize	French
+amphi-	Greek
+amphibious	Latin
+amphora	Latin
+amplification	Latin
+amyl	Latin
+an-	Greek
+anadromous	Latin
+anaerobic	French
+analemma	Latin
+analepsis	Greek
+analogous	Latin
+analogy	French
+analyze	French
+anapest	Latin
+anaphalantiasis	Greek
+anaphase	Greek
+anaphrodisiac	Greek
+anaphylactic	Greek
+anaphylaxis	Latin
+anarch	Greek
+anastomosis	Greek
+anastrophe	Greek
+anathematization	Latin
+anatomic	Latin
+ancestral	French
+anchovy	Romance (other)
+ancillary	Latin
+anecdote	French
+anent	West Germanic
+anesthetize	Latin
+aneurysm	Latin
+angle	French
+anguishous	French
+ani	Romance (other)
+animadversion	Latin
+animism	Latin
+annihilate	Latin
+anniversary	Latin
+announce	French
+annual	French
+annular	French
+anonym	French
+-ant	French
+Antares	Greek
+ante-bellum	Latin
+antelope	French
+anthelion	Greek
+anthropology	Latin
+anti-	French
+antibiotic	French
+antigen	West Germanic
+antimetabole	Greek
+antinomy	Latin
+antipathy	Latin
+antiphrasis	Latin
+antipope	Latin
+antithetic	Greek
+anxiety	Latin
+aorta	Latin
+apartment	French
+apertive	Latin
+aphid	Latin
+aphotic	Greek
+apocalypse	Latin
+apodyterium	Latin
+apologetic	French
+apology	Latin
+apoplectic	French
+apoplexy	French
+apostate	French
+apothecary	French
+apothegm	Greek
+appeal	French
+appellation	French
+appendix	Latin
+apperceive	French
+appetence	French
+applicator	Latin
+appointment	French
+appreciation	French
+apprise	French
+appropre	French
+April	French
+apt	French
+apteryx	Greek
+aptitude	Latin
+aqueous	Latin
+aquiline	Latin
+Arabic	French
+arachnoid	Latin
+Aramaean	Greek
+Aramaic	Greek
+arbitrator	Latin
+arboricide	Latin
+arborist	Latin
+-arch	Greek
+Archaean	Latin
+archaeology	French
+archduke	French
+Archilochian	Greek
+ardent	French
+areal	Latin
+Argive	Latin
+arguendo	Latin
+Ariadne	Greek
+Arian	Latin
+aristarchy	Greek
+aristo-	Greek
+aristocratic	French
+arithmocracy	Greek
+armilla	Latin
+armistice	French
+army	French
+array	French
+arrearage	French
+arrears	West Germanic
+arrogant	French
+arsenic	French
+art	French
+arterio-	Latin
+arthro-	Greek
+articular	Latin
+Aryan	Latin
+ascend	Latin
+Ascians	Latin
+ashram	Indian
+asine	French
+asp	French
+asperity	French
+aspirate	Latin
+aspirator	Latin
+assemblage	French
+assemble	French
+assent	French
+assessor	French
+assiento	Romance (other)
+assignation	French
+assimilate	Latin
+assonance	French
+assumption	French
+assure	French
+-ast	French
+-aster	Latin
+asterism	Greek
+asthenic	Latin
+astral	Latin
+astringent	Latin
+astrobiology	French
+astrolabe	French
+ataractic	Latin
+atavism	French
+atelo-	Greek
+Aten	other
+athlete	Latin
+Atlantic	Latin
+Atlantis	Greek
+attemper	French
+attendant	French
+attenuation	Latin
+attitude	Romance (other)
+attorney	French
+attribution	Latin
+attributive	French
+Au	Latin
+aubade	French
+auditory	Latin
+auger	West Germanic
+aught	West Germanic
+augur	Latin
+auricle	Latin
+auricular	Latin
+aurora	Latin
+auster	Latin
+Australasia	French
+author	French
+autism	West Germanic
+autocrat	French
+autopsy	Latin
+auxiliary	Latin
+avast	West Germanic
+ave	Latin
+avenue	French
+Avon	Celtic
+avuncular	Latin
+awake	West Germanic
+awoke	West Germanic
+Ayurvedic	Indian
+Baath	Semitic
+baccarat	French
+Bacchanal	Latin
+bah	French
+baize	French
+bald	Celtic
+ballocks	West Germanic
+Balt	Latin
+bankrupt	Romance (other)
+baptize	French
+Baqubah	Semitic
+barbarity	Latin
+barbarous	Latin
+bariatric	Greek
+barometer	Greek
+baron	French
+barony	French
+Bartholomew	French
+basil	French
+basilica	Latin
+basin	French
+basinet	French
+basis	Latin
+bass	West Germanic
+basset	French
+bassoon	French
+baste	French
+bate	French
+bateau	French
+bauble	French
+bead	West Germanic
+beal	Celtic
+beatification	French
+beatitude	French
+beau	French
+beaver	French
+beche-de-mer	French
+beef	French
+Beguine	French
+behest	West Germanic
+beignet	French
+beleaguer	West Germanic
+belfry	French
+belive	West Germanic
+Bellerophon	Latin
+Bellona	Latin
+bellow	West Germanic
+belly	West Germanic
+benefice	French
+benevolent	French
+benignity	French
+bereave	West Germanic
+beret	French
+Berlin	West Germanic
+berserker	North Germanic
+Betula	Latin
+bey	Altaic
+bezel	French
+bezoar	Semitic
+bhang	Indian
+bibber	West Germanic
+bibitory	Latin
+bibliography	Greek
+bibliopole	Latin
+biennium	Latin
+bigamy	French
+bigotry	French
+bilious	French
+bilirubin	West Germanic
+billet	French
+billiards	French
+billion	French
+binate	Latin
+binocle	French
+binomial	Latin
+bint	Semitic
+biota	Greek
+bipartient	Latin
+bipartite	Latin
+biretta	Romance (other)
+birthday	West Germanic
+bisect	Latin
+Blanche	French
+blaze	West Germanic
+blouse	French
+blow	West Germanic
+bluchers	other
+Boer	West Germanic
+bog	Celtic
+bombazine	French
+bon	Latin
+bonanza	Romance (other)
+bong	East Asian
+bonny	French
+bonus	Latin
+booby	Romance (other)
+boodle	West Germanic
+boondocks	East Asian
+booze	West Germanic
+borborygmus	Latin
+Boreas	Latin
+borscht	Slavic
+borzoi	Slavic
+botony	French
+botulism	West Germanic
+boudoir	French
+bounteous	French
+bourn	French
+box	Latin
+brace	French
+brachiosaurus	Greek
+brack	West Germanic
+Brahma	Indian
+Braille	other
+branchial	Latin
+bream	French
+breccia	Romance (other)
+breeches	West Germanic
+Breton	French
+breviary	Latin
+brevity	Latin
+Briareus	Greek
+broccoli	Romance (other)
+brochure	French
+broil	French
+broken	West Germanic
+bronchoscopy	West Germanic
+bronze	French
+brose	French
+brow	West Germanic
+brunette	French
+bruxism	Greek
+bub	West Germanic
+buckle	French
+buff	French
+buffo	Romance (other)
+buggery	French
+buggy	Indian
+bugle	French
+bull	Latin
+bunch	French
+bunco	Romance (other)
+Bundestag	West Germanic
+bureaucratic	French
+burgher	West Germanic
+busk	North Germanic
+bustier	French
+cachet	French
+cadastral	French
+cadenza	Romance (other)
+Cadiz	Latin
+caesura	Latin
+caiman	Romance (other)
+calabash	Romance (other)
+calamity	French
+calcaneus	Latin
+calcite	West Germanic
+calcium	Latin
+caliginous	Latin
+caliology	Greek
+callus	Latin
+calumet	French
+calumny	French
+Calvary	Latin
+calyx	Latin
+camerlengo	Romance (other)
+canary	French
+canine	Latin
+canker	Latin
+cannoli	Romance (other)
+canon	French
+canonization	Latin
+canzone	Romance (other)
+cap	Latin
+capacious	Latin
+capacity	French
+Capella	Latin
+capillary	Latin
+capital	Latin
+capnography	Greek
+capon	Latin
+Cappadocia	Greek
+cappuccino	Romance (other)
+capriccio	Romance (other)
+caprice	French
+captain	French
+captivate	Latin
+captivity	Latin
+captor	Latin
+caput	Latin
+carat	French
+caravanserai	Iranian
+caraway	Latin
+carbine	French
+carboniferous	Latin
+carceral	Latin
+cardinal	Latin
+cardoon	French
+Carmelite	Latin
+carnage	French
+carnality	Latin
+carneous	Latin
+Carnivora	Latin
+carob	French
+Carolingian	Latin
+carom	French
+carotene	West Germanic
+carousel	French
+carpentry	French
+cart	North Germanic
+Carthusian	Latin
+cartilage	French
+cartilaginous	French
+carton	French
+case	French
+caseous	Latin
+casque	French
+Cassandra	Greek
+cassette	French
+cassia	Latin
+cassock	French
+castellan	French
+castigate	Latin
+castor	French
+casual	French
+catalogue	French
+cataphract	Latin
+cataplexy	West Germanic
+catechism	French
+cathode	Latin
+caudal	Latin
+caul	French
+cauliflower	Romance (other)
+caulis	Latin
+caulk	French
+causal	Latin
+causative	French
+cause	French
+causeway	West Germanic
+caviar	French
+cedar	Latin
+celebrate	Latin
+cellulite	French
+cellulitis	Latin
+Celt	Latin
+cement	French
+cenacle	French
+cenotaph	French
+censer	French
+censure	Latin
+center	French
+centigram	French
+centurion	Latin
+ceremonial	Latin
+ceremonious	French
+certain	French
+certificate	French
+cetaceous	Latin
+chakra	Indian
+cham	French
+chancel	French
+chanter	French
+chanticleer	French
+chariot	French
+chasten	French
+chastity	French
+chatoyant	French
+chazzan	Semitic
+checker	French
+Cheka	Slavic
+chelate	Latin
+chenille	French
+Chersonese	Greek
+chervil	Latin
+chetnik	Slavic
+chevron	French
+chez	French
+chiasma	Greek
+chief	French
+chiffon	French
+chiffonier	French
+chimera	French
+chin	West Germanic
+Chinook	other
+chiromancy	French
+Chiron	Latin
+chive	French
+Chloe	Greek
+chloroplast	West Germanic
+choir	French
+cholesterol	French
+chorizo	Romance (other)
+chow	East Asian
+chowder	Latin
+chrism	Latin
+Christopher	Greek
+chrome	French
+chronology	French
+chrysalid	French
+chum	West Germanic
+chute	French
+cicada	Latin
+cicatrix	Latin
+Cicely	Greek
+Cid	Romance (other)
+cigarette	French
+cigarillo	Romance (other)
+cinnabar	French
+cinquecento	Romance (other)
+cinquefoil	Latin
+circensian	Latin
+circuity	French
+circumcise	French
+circumjacent	Latin
+circumnavigate	Latin
+circumscribe	Latin
+circumscription	Latin
+circumspect	Latin
+circumspection	French
+circumvent	Latin
+cire	French
+cirrus	Latin
+cistern	French
+citadel	French
+cithara	Latin
+citronella	French
+civet	French
+clack	North Germanic
+clang	Latin
+clap	West Germanic
+clarification	French
+classificatory	Latin
+classify	French
+clastic	Latin
+Claudia	Latin
+clementine	French
+cleric	Latin
+clientele	French
+climacteric	Latin
+climb	West Germanic
+clip	West Germanic
+cloaca	Latin
+cloister	French
+closet	French
+coact	Latin
+coagulant	Latin
+coalition	French
+coccus	Greek
+Cockaigne	French
+cockle	French
+cockney	West Germanic
+coco	Romance (other)
+cod-piece	West Germanic
+coelacanth	Latin
+coercion	French
+coherence	French
+coherent	French
+coincident	French
+colic	Latin
+collaboration	French
+collapse	Latin
+collate	Latin
+collective	French
+college	French
+collet	French
+collogue	French
+column	French
+comatose	Latin
+combination	French
+combustion	French
+comedian	French
+comedienne	French
+comedy	French
+comet	French
+commend	Latin
+commendatory	Latin
+commentation	Latin
+comminute	Latin
+commissary	Latin
+commode	French
+commodore	French
+communalism	French
+communicate	Latin
+companion	French
+comparator	Latin
+compass	French
+compensable	French
+complacence	Latin
+complainant	French
+complaisance	French
+complicate	Latin
+compliment	French
+compliment	Latin
+comportment	French
+composition	French
+comprehend	Latin
+compressor	Latin
+Compsognathus	Greek
+comptroller	Latin
+conative	Latin
+concede	French
+concent	Latin
+conception	French
+concession	French
+conclusory	Latin
+concoct	Latin
+concomitance	French
+concretion	French
+concurrence	French
+concurrent	French
+concussion	Latin
+condemnation	Latin
+condense	French
+condescendence	French
+condign	French
+condole	Latin
+confederate	Latin
+confidante	French
+confide	Latin
+confidential	Latin
+confines	French
+confiscation	French
+confusion	French
+confute	French
+congeal	French
+conglomerate	Latin
+congruous	Latin
+conjoint	French
+conjugation	Latin
+conjunct	Latin
+conjunction	French
+connoisseur	French
+connotate	Latin
+connotation	Latin
+conquest	French
+conscient	Latin
+consolate	Latin
+consolidation	Latin
+conspectus	Latin
+conspicuous	Latin
+constable	French
+constabulary	Latin
+constance	French
+constraint	French
+constriction	Latin
+constringent	Latin
+construe	Latin
+consubstantiation	Latin
+consul	French
+consular	Latin
+consumption	French
+consumptive	Latin
+contact	Latin
+contagion	French
+contemplation	French
+contemporaneous	Latin
+conterminous	Latin
+contessa	Romance (other)
+contiguity	French
+contingence	Latin
+continuous	French
+contort	Latin
+contra	Latin
+contractor	Latin
+contralto	Romance (other)
+contrapositive	Latin
+contravention	French
+controverse	French
+contumacy	French
+contusion	Latin
+contusive	Latin
+conus	Latin
+convalescence	French
+convection	Latin
+convenance	French
+convenient	Latin
+conventional	Latin
+conviction	Latin
+convival	Latin
+convoke	French
+coop	West Germanic
+cooperate	Latin
+cop	French
+cope	Latin
+coppice	French
+copula	Latin
+copulate	Latin
+copulation	Latin
+coquet	French
+coralline	Latin
+cordage	French
+Corinna	Latin
+Corinth	Latin
+corn	French
+cornice	French
+corona	Latin
+correspond	French
+corridor	French
+corroboration	Latin
+corrode	French
+corse	French
+corselet	French
+cortex	Latin
+coruscation	Latin
+cosmetic	French
+cosmic	Latin
+cosmology	Latin
+cosmonaut	Greek
+costal	French
+costume	French
+cotton	Celtic
+coulee	French
+countermarch	French
+country	French
+covenant	French
+cowardice	French
+coyote	Romance (other)
+cramp	West Germanic
+crane	West Germanic
+crapulent	Latin
+craven	French
+crayfish	French
+create	Latin
+creature	French
+credibility	Latin
+credit	French
+creme de la creme	French
+crenel	French
+creophagy	Latin
+crepitation	Latin
+crescendo	Romance (other)
+crest	French
+crevasse	French
+cribriform	Latin
+criminal	French
+criminate	Latin
+critic	French
+crochet	French
+crotch	French
+crouton	French
+crucible	Latin
+crumble	West Germanic
+Crustacea	Latin
+cry	French
+crypt	Latin
+cub	Celtic
+cube	French
+cuck	North Germanic
+cue	Latin
+cuirass	French
+Culdee	Celtic
+culpable	French
+cult	French
+cultivable	French
+culture	Latin
+cumin	Latin
+cuneiform	French
+cup	Latin
+cupreous	Latin
+cure	Latin
+cursorial	Latin
+curtain	French
+customary	Latin
+cutlass	French
+cycle	French
+cyclic	French
+Cyclops	Latin
+cynic	Latin
+cypress	French
+Cypriot	Latin
+Cyprus	Latin
+cyto-	Latin
+cytosine	West Germanic
+dacha	Slavic
+Dacian	Greek
+dactylic	Latin
+dactylogram	Latin
+Dada	French
+Daedalus	Latin
+daffodil	Latin
+Damascene	Latin
+Damascus	Latin
+dame	French
+dandelion	French
+Daphne	Greek
+dapper	West Germanic
+data	Latin
+date	French
+daunt	French
+daze	North Germanic
+de	West Germanic
+deacon	West Germanic
+deasil	Celtic
+debauch	French
+debauchee	French
+debilitation	French
+Decalogue	Latin
+decapitate	French
+decapod	French
+decedent	Latin
+December	French
+decency	Latin
+decennoval	Latin
+decimate	Latin
+deckle	West Germanic
+declamatory	Latin
+declare	French
+decolletage	French
+decorticate	Latin
+decussate	Latin
+defalcate	Latin
+defect	Latin
+defensive	French
+defer	French
+deferent	French
+deficiency	Latin
+deflagration	Latin
+defray	French
+deglutition	French
+degression	Latin
+deify	French
+deign	French
+delay	French
+dele	Latin
+deliberative	French
+delimit	French
+Della Crusca	Romance (other)
+deltoid	Greek
+delusion	Latin
+deluxe	French
+delve	West Germanic
+demand	French
+demarcation	Romance (other)
+Demeter	Greek
+demi-monde	French
+demise	French
+democratize	French
+demography	Greek
+demonetize	French
+demoralize	French
+denature	French
+Denebola	Latin
+dengue	Romance (other)
+denim	French
+Dennis	French
+denude	Latin
+deny	French
+department	French
+departure	French
+depict	Latin
+depiction	French
+deplore	French
+deploy	French
+deportment	French
+deprave	French
+deprecate	Latin
+deprecation	French
+depredation	French
+derail	French
+derange	French
+derangement	French
+derivate	Latin
+derma	Latin
+derogate	Latin
+dervish	Altaic
+descension	French
+describe	French
+description	French
+descriptive	Latin
+deserve	French
+desiccation	Latin
+desirable	French
+desire	French
+despair	French
+desperado	Latin
+desperation	French
+despoil	French
+despotic	French
+destine	French
+destructive	French
+detention	French
+determination	French
+determine	French
+determinism	French
+detour	French
+detriment	French
+Detroit	French
+deuce	French
+deuterogamy	Latin
+devastation	Latin
+develop	French
+device	French
+devious	Latin
+devolve	Latin
+diagram	French
+diamante	French
+diary	Latin
+diatessaron	Greek
+dictum	Latin
+dieresis	Latin
+difference	French
+digest	Latin
+digestible	French
+dignify	French
+diktat	West Germanic
+dilapidate	Latin
+dilatation	French
+dill	West Germanic
+dimension	Latin
+diminutive	French
+dimity	Romance (other)
+dimorphism	Greek
+dinar	Semitic
+dinner	French
+dinosaur	Greek
+diphthong	Latin
+dire	Latin
+disavow	French
+disburse	French
+discalceate	Latin
+discernible	French
+disciple	Latin
+discontinuity	Latin
+discontinuous	Latin
+discotheque	French
+discrepancy	Latin
+discuss	Latin
+disdain	French
+disgrace	French
+disguise	French
+disgust	French
+disheveled	French
+dishonesty	French
+disjunction	French
+dislocate	Latin
+disobedient	French
+disorient	French
+dispatch	Romance (other)
+dispensable	Latin
+dispensary	Latin
+displease	French
+displeasure	French
+dispose	French
+dispossess	French
+disrupt	Latin
+dissection	French
+dissension	French
+dissertation	Latin
+dissonant	French
+dissuade	French
+distance	French
+distillation	Latin
+distribute	Latin
+distribution	French
+divagation	Latin
+divan	Altaic
+diversification	Latin
+divert	French
+divide	Latin
+dividend	Latin
+divination	French
+divinity	French
+divorcee	French
+doctrinaire	French
+Dodecanese	Latin
+dolmen	French
+dolorous	French
+dome	French
+dominant	French
+domination	French
+dominator	French
+domineer	West Germanic
+Dominic	Latin
+dominion	French
+domino	French
+Donatist	Latin
+doomsday	West Germanic
+dope	West Germanic
+doppelganger	West Germanic
+dormitory	Latin
+dory	French
+dose	French
+do-si-do	French
+doubloon	French
+doughty	West Germanic
+Douglas	Celtic
+doyen	French
+dozen	French
+dragon	French
+Dravidian	Indian
+dreck	West Germanic
+drench	West Germanic
+dressage	French
+droll	French
+drollery	French
+droop	North Germanic
+drury	French
+dubious	Latin
+ducal	French
+Duce	Latin
+duck	West Germanic
+dudgeon	French
+dummkopf	West Germanic
+dungaree	Indian
+dunk	West Germanic
+duodecimal	Latin
+duodecimo	Latin
+dupe	French
+duplicate	Latin
+duplicity	French
+Dushanbe	Iranian
+dystrophy	Latin
+eagle	French
+ear	West Germanic
+easement	French
+Ebenezer	Semitic
+ebriety	Latin
+ecarte	French
+eccentric	French
+ecdysiast	Greek
+echidna	Greek
+eclair	French
+economics	French
+ecstatic	Greek
+edacious	Latin
+Edda	North Germanic
+Edgar	West Germanic
+edict	French
+edifice	French
+education	French
+educative	Latin
+effable	French
+efficacious	Latin
+efflorescence	French
+efflorescent	Latin
+eftsoons	West Germanic
+eglantine	French
+egregious	Latin
+egret	French
+Egypt	French
+eject	Latin
+el	Latin
+elaboration	Latin
+elan	French
+Electra	Greek
+elegy	French
+ellipse	French
+elope	West Germanic
+Elsevier	West Germanic
+elusive	Latin
+elution	Latin
+elytro-	Greek
+embassy	French
+ember-days	West Germanic
+emblematic	Latin
+embolus	Latin
+emergency	Latin
+emeritus	Latin
+emetic	French
+emigration	Latin
+emoji	East Asian
+emphatic	Latin
+employe	French
+emporium	Latin
+empty	West Germanic
+empyrean	Greek
+emu	Romance (other)
+emulous	Latin
+en	Latin
+enchilada	Romance (other)
+encumbrance	French
+endo-	West Germanic
+enemy	French
+enervate	Latin
+enforcement	French
+engine	French
+enmity	French
+ennui	French
+enrage	French
+enterprise	French
+enthusiasm	French
+entire	French
+entree	French
+envelop	French
+envoy	French
+ephebe	Greek
+epic	Latin
+epicene	Latin
+epidemic	French
+epiglottis	Latin
+epilepsy	French
+epilogue	French
+episiotomy	Greek
+epistasis	Greek
+epistemology	Greek
+epitaph	French
+epithelium	Greek
+epithet	French
+epoch	Latin
+eponym	Greek
+equate	Latin
+equi-	Latin
+equivocate	Latin
+-er	West Germanic
+erection	Latin
+ergo	Latin
+Erl-king	West Germanic
+erose	Latin
+erosion	French
+ersatz	West Germanic
+escalade	French
+escarp	French
+eschatology	Latin
+eschaton	Greek
+escritoire	French
+espadrille	French
+espionage	French
+esprit	French
+espy	French
+essive	Uralic
+establish	French
+estimable	French
+estimate	Latin
+estuary	Latin
+esurient	Latin
+ethno-	Greek
+etiquette	French
+ettin	West Germanic
+etymologize	Latin
+Eugene	French
+euphemism	Greek
+Euphrates	Greek
+Euphues	Greek
+eureka	Greek
+eury-	Greek
+eurythmic	Greek
+euthanasia	Greek
+evade	French
+evangelical	French
+evangelize	French
+event	French
+eventuate	Latin
+eviction	French
+evocation	Latin
+evocative	Latin
+evoke	French
+exacerbation	Latin
+exact	Latin
+exasperate	Latin
+excavation	Latin
+exceed	French
+excellence	French
+excellency	Latin
+excerpt	Latin
+exchange	French
+exclusion	Latin
+excoriate	Latin
+excursion	Latin
+execrate	Latin
+exegesis	Greek
+exemplar	French
+exemplary	French
+exert	Latin
+exhibition	French
+exhilarate	Latin
+exhortation	French
+exhortatory	Latin
+exhume	Latin
+exiguous	Latin
+existence	French
+Exodus	Latin
+exogenous	Latin
+exonerate	Latin
+exoneration	Latin
+exorcise	French
+exorcist	Latin
+exotic	French
+expansive	Latin
+expatiate	Latin
+expedite	Latin
+expel	Latin
+expend	Latin
+explode	Latin
+exploit	French
+exploration	French
+expository	Latin
+expostulate	Latin
+expulsion	French
+exsiccation	Latin
+extemporaneous	Latin
+extenuation	Latin
+exterior	Latin
+extermination	French
+extinct	Latin
+extraverted	Latin
+extreme	French
+extremity	French
+extricate	Latin
+extrinsic	French
+extrude	Latin
+extrusive	Latin
+exude	Latin
+exult	French
+eyot	West Germanic
+Ezekiel	Latin
+facetious	French
+facile	French
+factor	French
+fairy	French
+fakir	Semitic
+falcate	Latin
+false	French
+fame	French
+familiar	French
+famine	French
+famish	Latin
+fanatic	Latin
+fane	West Germanic
+fanfare	French
+fantasia	Romance (other)
+farinaceous	Latin
+farthingale	French
+fascinous	Latin
+fash	French
+fastidious	Latin
+fatal	French
+fatality	French
+fatigue	French
+fatuity	French
+fawn	West Germanic
+fawney	Celtic
+feal	French
+fealty	French
+fear	West Germanic
+febrile	Latin
+February	Latin
+fedayeen	Semitic
+felloe	West Germanic
+fellow	West Germanic
+felon	French
+feminize	Latin
+fenestration	Latin
+fennec	Semitic
+feral	French
+fere	West Germanic
+ferhoodle	West Germanic
+ferrous	Latin
+ferrule	French
+fertility	French
+fervor	French
+fess	French
+festal	French
+festivity	French
+festucine	Latin
+fetor	Latin
+fettuccine	Romance (other)
+feudal	Latin
+fever	Latin
+feverfew	Latin
+fez	French
+fiance	French
+fictile	Latin
+fiction	French
+ficus	Latin
+fiddler	West Germanic
+fief	French
+fierce	French
+fig	French
+figment	Latin
+fike	North Germanic
+filial	Latin
+filibuster	West Germanic
+filigree	French
+filly	North Germanic
+financier	French
+finite	Latin
+finity	French
+firm	West Germanic
+fissure	French
+fit	West Germanic
+flambeau	French
+flamingo	Romance (other)
+flattery	French
+fleam	French
+fleck	North Germanic
+fleeting	West Germanic
+Fleming	West Germanic
+Flemish	West Germanic
+fleuret	French
+flexibility	French
+flexion	Latin
+flexuous	Latin
+flora	Latin
+florist	Latin
+flounce	West Germanic
+flugelhorn	West Germanic
+flume	French
+flummery	Celtic
+flux	French
+follies	French
+follow	West Germanic
+Fomalhaut	Semitic
+Fomorian	Celtic
+font	Latin
+Foraminifera	Latin
+forceps	Latin
+foreclose	French
+forehead	West Germanic
+foreign	French
+foremost	West Germanic
+forest	French
+form	French
+formicary	Latin
+Fornax	Latin
+fornicator	Latin
+fort	French
+fortress	French
+fortuitous	Latin
+fortune	French
+forum	Latin
+fosse	French
+foundling	West Germanic
+fountain	French
+foy	French
+fracas	French
+frail	French
+Frankenstein	other
+frass	West Germanic
+fraternal	French
+fraternity	French
+fraternize	French
+fraudulence	French
+freckle	North Germanic
+Frederick	French
+freely	West Germanic
+freeze	West Germanic
+freight	West Germanic
+fremd	West Germanic
+frequency	Latin
+friable	French
+Frigg	North Germanic
+fringe	French
+friseur	French
+frisky	West Germanic
+fritillary	Latin
+fritter	French
+frizz	French
+frock	French
+frog	West Germanic
+frore	West Germanic
+fugitive	French
+fundus	Latin
+funeral	Latin
+fungous	Latin
+fur	French
+furcate	Latin
+furnace	French
+furtive	French
+fuse	Romance (other)
+fusible	Latin
+fusiform	Latin
+fusty	French
+futility	French
+gaberdine	Romance (other)
+Gabriel	Semitic
+gaff	French
+gain	French
+galactic	Latin
+Gallic	Latin
+gallinaceous	Latin
+gallop	French
+gallows	North Germanic
+galvanism	French
+gamine	French
+ganglion	Greek
+gangway	West Germanic
+ganja	Indian
+gantry	French
+garret	French
+garrot	French
+gash	French
+gasket	French
+gasp	North Germanic
+gastrula	Latin
+gauche	French
+gazelle	French
+gelato	Romance (other)
+geloscopy	Greek
+Gemini	Latin
+gender	French
+gene	West Germanic
+genealogical	French
+generality	French
+generous	French
+Genevieve	French
+genius	Latin
+gens	Latin
+gentility	French
+gentry	French
+genuflection	French
+Geoffrey	French
+geography	French
+geophagy	Greek
+geranium	Latin
+germane	Latin
+gesso	Romance (other)
+gestation	Latin
+ghawazee	Semitic
+ghetto	Romance (other)
+giant	French
+gimp	French
+gin	West Germanic
+gingham	West Germanic
+gingival	Latin
+gingivitis	Latin
+ginseng	East Asian
+gizzard	French
+gladiator	Latin
+gladiatorial	Latin
+glebe	French
+globe	French
+globose	Latin
+glockenspiel	West Germanic
+glossocomium	Latin
+glue	French
+glum	West Germanic
+gluten	French
+glutton	French
+gnathic	West Germanic
+gnosis	Greek
+Gnostic	Latin
+golem	Semitic
+Gomorrah	Semitic
+gonad	Latin
+gonorrhea	Latin
+gorgeous	French
+gourmet	French
+Graeco-	Latin
+grallatorial	Latin
+gramary	French
+gramercy	French
+grammatist	French
+grandiose	French
+granulose	Latin
+grasshopper	West Germanic
+gratuitous	Latin
+gratulation	Latin
+gravel	French
+gravitas	Latin
+grenadier	French
+grief	French
+grievance	French
+grille	French
+grimace	French
+gringo	Romance (other)
+grippe	French
+grisette	French
+grizzle	French
+grogram	French
+grotesque	French
+grouse	French
+gruesome	West Germanic
+guide	French
+guidon	French
+guile	French
+Gurkha	Indian
+gymnosophist	Greek
+gynecology	French
+gypsum	Latin
+gyre	Latin
+habitable	French
+habitude	French
+hacek	Slavic
+hackamore	Semitic
+Hades	Greek
+hadrosaur	Latin
+hafla	Semitic
+Haggadah	Semitic
+Hague	West Germanic
+haiku	East Asian
+hajj	Semitic
+Halifax	West Germanic
+halite	Greek
+handle	West Germanic
+haploid	West Germanic
+hardly	West Germanic
+hark	West Germanic
+harness	French
+harsh	West Germanic
+hashish	Semitic
+haste	French
+hatchet	French
+hath	West Germanic
+haught	French
+haughty	French
+hautboy	French
+hauteur	French
+haven	North Germanic
+haver	North Germanic
+headway	West Germanic
+Hebraic	French
+Hector	Latin
+hedge	West Germanic
+Helicon	Latin
+helicopter	French
+heliotrope	French
+hellebore	French
+hell-hound	West Germanic
+hemisphere	Latin
+hemophilia	West Germanic
+henotheism	Greek
+hepatic	French
+herb	French
+herbivorous	Latin
+Hercynian	Latin
+heretic	French
+Hermione	Greek
+herpetology	French
+hesitance	Latin
+hesitate	Latin
+hetero-	Greek
+heterodox	Greek
+hexa-	Greek
+hibachi	East Asian
+hide	West Germanic
+hieratic	Latin
+hierophantic	Latin
+hind	West Germanic
+Hippocratic	Latin
+Hippolyte	Greek
+hippopotamus	Latin
+Hispanic	Latin
+Hispaniola	Romance (other)
+histone	West Germanic
+historicity	Latin
+hitch	West Germanic
+hold	West Germanic
+holiday	West Germanic
+holiness	West Germanic
+holism	Greek
+holla	French
+holocaust	French
+homily	French
+Homo sapiens	Latin
+homogeneous	Latin
+honorable	French
+Honoria	Latin
+horizontal	French
+hormone	Greek
+hornblende	West Germanic
+horrendous	Latin
+hors d&#x27;oeuvre	French
+hors de combat	Latin
+horticulture	Latin
+hospice	French
+hospitaller	French
+hotelier	French
+Houdini	other
+hoyden	West Germanic
+huddle	West Germanic
+hue	French
+Hugh	French
+hull	West Germanic
+humidity	French
+humility	French
+husband	North Germanic
+hussar	West Germanic
+hustle	West Germanic
+hydraulic	French
+Hydrus	Latin
+hylo-	Greek
+Hymenoptera	Greek
+hypha	Latin
+hypothalamus	Greek
+hypothetical	Latin
+hypso-	Greek
+hyssop	Latin
+i.e.	West Germanic
+iambic	Latin
+Iberia	Greek
+Icarus	Latin
+icon	Latin
+id	Latin
+ideologue	French
+idiosyncrasy	French
+idolater	French
+-ier	French
+ignite	Latin
+ignivomous	Latin
+ignore	French
+illusory	French
+Ilocano	East Asian
+imaginative	French
+imbricate	Latin
+imbroglio	Romance (other)
+imbue	Latin
+imitator	French
+immanent	Latin
+immaturity	Latin
+immemorable	Latin
+immolate	Latin
+immure	French
+immutable	French
+impair	French
+impatience	French
+impatient	French
+impeachment	French
+impel	Latin
+impend	Latin
+imperfection	French
+imperscriptible	French
+impertinence	French
+impervious	Latin
+impiety	French
+implacable	French
+implantation	French
+implement	Latin
+implete	Latin
+impregnable	French
+impresario	Romance (other)
+impression	French
+impromptitude	French
+improvidence	Latin
+imprudent	Latin
+impugn	French
+inaccessible	French
+inappetence	French
+incarnate	Latin
+incentive	Latin
+incessant	French
+inch	Celtic
+inch	Latin
+incineration	French
+incite	French
+incitement	French
+incivility	French
+inclement	French
+incomparable	French
+incongruous	Latin
+inconsequence	Latin
+inconsolable	Latin
+inconstant	French
+incontiguous	Latin
+incorruptibility	Latin
+incorruptible	French
+increpation	Latin
+incurable	French
+indecorous	Latin
+indecorum	Latin
+indemnify	Latin
+index	Latin
+Indies	West Germanic
+indifferent	French
+indigestible	Latin
+indigestion	French
+indignity	Latin
+indiscrete	Latin
+indispensable	Latin
+indissoluble	Latin
+indite	French
+indivisible	French
+Indo-	Greek
+indocile	French
+indolent	French
+indubious	Latin
+induce	Latin
+inductor	Latin
+industry	French
+-ine	French
+inept	French
+ineptitude	French
+inevitable	Latin
+infamous	Latin
+infant	Latin
+Infanta	Romance (other)
+infantile	Latin
+infarction	Latin
+infatuate	Latin
+infection	French
+inferior	Latin
+inferno	Romance (other)
+infestation	French
+infinity	French
+infra	Latin
+inherent	Latin
+inhibitory	Latin
+Inigo	Romance (other)
+inimical	Latin
+initial	French
+injustice	French
+inoculate	Latin
+inquest	French
+insanity	Latin
+inscribe	Latin
+insecurity	Latin
+insensate	Latin
+insense	French
+inseparable	Latin
+insert	Latin
+insertion	French
+insidious	French
+insinuate	Latin
+insistent	Latin
+insoluble	French
+insouciance	French
+instability	French
+install	French
+installment	French
+instant	French
+instigation	French
+instillation	Latin
+institute	Latin
+instruct	Latin
+instruction	French
+instrumental	French
+instrumentation	French
+insufficiency	French
+insurgent	Latin
+insurrection	French
+integer	Latin
+intellect	French
+intellectualism	Latin
+intelligence	French
+intelligible	Latin
+intemperate	Latin
+intendant	French
+intent	French
+interchange	French
+interlace	French
+interlocution	Latin
+interlude	French
+intermezzo	Romance (other)
+intern	French
+internal	Latin
+interphase	West Germanic
+interpunction	Latin
+interrogator	French
+interrupt	Latin
+interturb	Latin
+intervention	French
+intestine	French
+intransigent	French
+introduction	French
+introrse	Latin
+introvert	Latin
+intuit	Latin
+intumescence	French
+intumescent	Latin
+inurbane	Latin
+invasion	French
+inverse	Latin
+investigable	Latin
+investigation	French
+inviolate	Latin
+invisible	French
+iodine	French
+-ion	French
+Ionic	Latin
+iridium	Greek
+irrecoverable	French
+irrefutable	Latin
+irrevocable	Latin
+Ishihara	East Asian
+Ishtar	Semitic
+iso-	Greek
+isochronous	Latin
+isopod	French
+isotope	Greek
+Italiot	Greek
+itch	West Germanic
+ivory tower	French
+ivy	West Germanic
+jackal	French
+jade	French
+jager	West Germanic
+jaguar	Romance (other)
+javelin	French
+jejune	Latin
+jennet	French
+Jephthah	Greek
+jerk	Romance (other)
+jeroboam	Greek
+Jesus	Greek
+Jewess	French
+jilt	West Germanic
+jocose	Latin
+jocularity	Latin
+jog	West Germanic
+joiner	French
+joint	French
+jointure	French
+jolly	French
+Joshua	Latin
+journalist	French
+journey	French
+Jove	Latin
+jubate	Latin
+judicative	Latin
+judiciary	Latin
+judicious	French
+juggler	West Germanic
+jugular	Latin
+jujitsu	East Asian
+jumart	French
+junco	Latin
+jungle	Indian
+juniper	Latin
+junker	West Germanic
+jupe	French
+juvenescent	Latin
+K	Greek
+Kaaba	Semitic
+kakistocracy	Greek
+kaleidoscope	Greek
+Kazakhstan	Altaic
+keen	Celtic
+kef	Semitic
+keld	North Germanic
+Kennedy	Celtic
+Kenneth	Celtic
+kepi	French
+Keziah	Semitic
+kick	North Germanic
+Kilkenny	Celtic
+kinase	Greek
+kindred	West Germanic
+kiosk	French
+kishke	Slavic
+kist	North Germanic
+Klamath	other
+klatsch	West Germanic
+Knickerbocker	other
+kolkhoz	Slavic
+Kore	Greek
+kosher	West Germanic
+krone	North Germanic
+Kuwait	Semitic
+kylix	Greek
+labarum	Greek
+label	French
+labiate	Latin
+labile	Latin
+labor	French
+laboratory	Latin
+laborious	French
+Labrador	Romance (other)
+labrum	Latin
+lac	French
+lachrymal	Latin
+lachrymose	Latin
+laciniate	Latin
+lam	North Germanic
+lament	French
+lamia	Latin
+landscape	West Germanic
+language	French
+Lanier	French
+lanthanum	Greek
+lapideous	Latin
+lapis lazuli	Latin
+largesse	French
+lark	North Germanic
+larval	Latin
+larynx	French
+lascivious	French
+lassitude	Latin
+latchet	French
+latescent	Latin
+lather	West Germanic
+latrine	Latin
+laudatory	French
+laurel	French
+lawn	West Germanic
+lax	West Germanic
+laxative	French
+lazaretto	Romance (other)
+legacy	Latin
+legate	French
+legicide	Latin
+legislation	French
+legitimate	French
+legitimist	French
+leguminous	Latin
+Lehrjahre	West Germanic
+leisure	French
+lemma	Greek
+lenient	French
+Leo	Latin
+Leon	Latin
+Leonard	French
+leonine	French
+lepton	Greek
+lese-majesty	French
+leukemia	Greek
+levee	French
+levitation	Latin
+liar	West Germanic
+libertine	Latin
+licit	Latin
+lictor	Latin
+Lido	Romance (other)
+lieu	French
+ligament	Latin
+ligand	Latin
+Liguria	Latin
+Lilith	Semitic
+lime	Semitic
+limitary	Latin
+limp	West Germanic
+lineage	West Germanic
+liniment	Latin
+liparo-	Greek
+lipogram	Greek
+liquefaction	French
+liquidate	Latin
+liquidity	Latin
+literature	Latin
+lithic	Greek
+litigate	Latin
+little	West Germanic
+liturgical	Latin
+livelihood	West Germanic
+Lloyd	Celtic
+loach	French
+locker	West Germanic
+locket	French
+loco	Romance (other)
+locust	Latin
+logician	French
+logo-	Greek
+loin	French
+Lollard	West Germanic
+-long	North Germanic
+longinquity	Latin
+longitude	Latin
+loo	French
+loquacity	Latin
+lordship	West Germanic
+lorimer	French
+Lorraine	Latin
+lotion	French
+lottery	Romance (other)
+lotus	Latin
+lough	West Germanic
+Louis	French
+louver	French
+lubric	French
+lucern	West Germanic
+lucida	Latin
+lucidity	French
+luciferase	French
+Lucina	Latin
+lucubrate	Latin
+Luddite	other
+ludicrous	Latin
+luff	French
+Luftwaffe	West Germanic
+lupin	Latin
+lupus	Latin
+lurid	Latin
+lustre	French
+lute	French
+luxate	Latin
+Luxembourg	West Germanic
+Lycaonian	Latin
+lyre	French
+lytic	Greek
+M	Greek
+Mac	Celtic
+Macaca	Romance (other)
+macaw	Romance (other)
+Macedonian	Latin
+macron	Latin
+mad	West Germanic
+madder	West Germanic
+made	West Germanic
+Madeline	French
+Madras	Indian
+madrigal	Romance (other)
+maelstrom	North Germanic
+maenad	Greek
+magma	Latin
+magnet	French
+magnify	French
+Maia	West Germanic
+maison	French
+maitre d&#x27;hotel	French
+majesty	French
+majlis	Semitic
+majolica	Romance (other)
+major	French
+mal du siecle	French
+Malaga	Semitic
+malaise	French
+malaxation	Latin
+malcontent	French
+mallet	French
+mallow	Latin
+maltreat	French
+Mammon	Latin
+man	West Germanic
+mandate	French
+mange	French
+mania	Latin
+manicure	French
+Manila	East Asian
+manilla	Romance (other)
+Manitoba	other
+mannequin	French
+manque	French
+mantic	Greek
+mantissa	Latin
+many	West Germanic
+maquette	French
+marasmus	Greek
+Maratha	Indian
+maraud	French
+march	French
+Marcus	Latin
+Mareotic	Latin
+marginalia	Latin
+marionette	French
+marl	French
+marmoreal	Latin
+marquetry	French
+marshal	French
+martial	Latin
+martin	French
+Marxist	French
+massacre	French
+massive	French
+mastery	French
+mastication	French
+mat	French
+mat	Latin
+match	West Germanic
+mate	French
+mathematic	French
+Matilda	French
+matricide	French
+matte	French
+Matthew	French
+maun	North Germanic
+mavis	French
+maximal	Latin
+Maximilian	Latin
+maze	West Germanic
+mazurka	Slavic
+McFarland	Celtic
+meager	French
+mean	West Germanic
+meander	Latin
+mechanic	Latin
+mechanics	Greek
+medic	Latin
+medicament	French
+mediocre	French
+medlar	French
+medulla	Latin
+melange	French
+melee	French
+mellifluous	Latin
+melt	West Germanic
+Melvin	West Germanic
+memento mori	West Germanic
+mensal	Latin
+mensural	Latin
+mercury	Latin
+mercy	French
+meringue	French
+merism	Latin
+merlon	French
+mero-	Greek
+merry	West Germanic
+Mersey	West Germanic
+mesel	French
+mesic	Greek
+Mesoamerica	Romance (other)
+mess	French
+metallurgy	Latin
+metamorphize	Greek
+meteorology	French
+meter	Latin
+metier	French
+metonymy	French
+metopic	Greek
+metropolis	Latin
+microbial	Latin
+microfiche	French
+micturition	Latin
+mid	West Germanic
+middling	West Germanic
+midwife	West Germanic
+mildly	West Germanic
+military	French
+mill	Latin
+mime	French
+mimesis	Greek
+mimosa	Latin
+miner	French
+Minerva	Latin
+miniature	Romance (other)
+minim	Latin
+minion	French
+miniver	French
+minster	Latin
+minuscule	French
+miosis	Greek
+Miriam	Semitic
+mis-	French
+mischance	French
+miscible	Latin
+miscount	French
+missive	Latin
+mite	West Germanic
+mitigate	Latin
+mix	West Germanic
+Mnemosyne	Greek
+mock	French
+moderation	French
+modern	French
+modicum	Latin
+modify	French
+modus	Latin
+Mogadishu	Semitic
+Mogen David	Semitic
+moil	French
+Moira	Greek
+mold	French
+mole	French
+Moloch	Latin
+monoceros	French
+monogony	Greek
+monomania	Latin
+monseigneur	French
+Montana	Latin
+Montezuma	Romance (other)
+Montmartre	Latin
+monument	French
+moral	French
+morale	French
+moray	Romance (other)
+Mordecai	Semitic
+Morisco	Romance (other)
+Moro	Romance (other)
+morpheme	West Germanic
+morphine	French
+morphology	West Germanic
+mort	French
+mortification	Latin
+mortify	French
+Morus	Latin
+Mosaic	Latin
+motet	French
+mound	West Germanic
+mousse	French
+movable	French
+mucose	Latin
+muleteer	French
+mull	West Germanic
+mullah	Altaic
+multifloral	Latin
+multiloquent	Latin
+multiparous	Latin
+multiple	French
+multiplicative	Latin
+multitude	French
+mun	North Germanic
+mundane	French
+mundanity	French
+municipal	French
+musculature	French
+museum	Latin
+musical	Latin
+mutability	French
+mutable	Latin
+mutism	French
+myco-	Latin
+myope	French
+myopia	Greek
+myriad	French
+myth	French
+mythology	Latin
+naissance	French
+naissant	French
+napping	West Germanic
+narghile	French
+natant	Latin
+natatorial	Latin
+Nathan	Semitic
+national	French
+nationalism	French
+native	French
+navel	West Germanic
+Neapolitan	Latin
+necessary	French
+neese	North Germanic
+negation	French
+negatory	French
+negligee	French
+negligent	French
+neighbor	West Germanic
+neoteric	Latin
+nervose	Latin
+nervosity	Latin
+nescience	Latin
+nescient	Latin
+Nestorian	Greek
+neurology	Latin
+neutral	Latin
+next	West Germanic
+nidorous	Latin
+nigh	West Germanic
+nitrate	French
+nixie	West Germanic
+nobility	French
+noble	French
+noblesse	French
+noctuary	Latin
+noll	West Germanic
+nominalism	French
+nominative	French
+nones	French
+nonpareil	French
+noodle	West Germanic
+nook	North Germanic
+noose	French
+Nostradamus	Latin
+nostrum	Latin
+notabilia	Latin
+notability	French
+notify	French
+nougat	French
+nourishment	French
+novena	Latin
+novennial	Latin
+novitiate	French
+now	West Germanic
+noxious	Latin
+Nubian	Latin
+nucleotide	West Germanic
+nucleus	Latin
+nullification	Latin
+numbles	French
+numeration	Latin
+numerative	Latin
+numinous	Latin
+numismatic	French
+nutant	Latin
+nutritious	Latin
+nystagmus	Greek
+oat	West Germanic
+oath	West Germanic
+obedience	French
+objection	French
+objet	French
+oblate	Latin
+obligation	French
+oblige	French
+obliterate	Latin
+obscure	French
+obsecration	Latin
+obsequious	Latin
+observe	French
+obsess	Latin
+obstipation	Latin
+obstruction	Latin
+obviation	Latin
+ocarina	Romance (other)
+occasion	French
+occident	French
+occipital	French
+Occitan	French
+occlusion	Latin
+occupation	French
+occurrence	French
+octa-	Greek
+octagon	Latin
+October	Latin
+oda	Altaic
+odalisque	French
+odd	North Germanic
+odium	Latin
+odyssey	Latin
+officiate	Latin
+ointment	French
+Olaf	North Germanic
+ole	Romance (other)
+oleo-	Latin
+omerta	Romance (other)
+omo-	Greek
+-one	Greek
+Oneida	other
+ontology	Latin
+oo-	Greek
+opal	French
+operation	French
+opine	French
+opiniaster	French
+opportunity	French
+oppugn	Latin
+opt	French
+optimist	French
+or	West Germanic
+orangutan	French
+oratory	French
+orchidectomy	Latin
+ordinance	French
+ordinary	French
+organ	Latin
+organization	Latin
+orgasm	French
+orifice	French
+origami	East Asian
+origination	French
+Orleans	Latin
+ornate	Latin
+-ory	West Germanic
+oscillation	French
+oscitation	Latin
+Osmanli	Altaic
+osmatic	French
+ostensible	French
+otiose	Latin
+ouzel	West Germanic
+oval	French
+overrun	West Germanic
+oviparous	Latin
+ox	West Germanic
+Oxford	West Germanic
+oxymoron	Greek
+pact	French
+pad	West Germanic
+paddle	Latin
+Padua	Latin
+paella	Romance (other)
+pair	French
+pall	West Germanic
+pallet	French
+palpitant	French
+palsgrave	West Germanic
+pander	West Germanic
+pansy	French
+pant	Latin
+pantisocracy	Greek
+pantothenic	Greek
+papal	French
+paparazzi	Romance (other)
+Parabellum	Latin
+paradise	French
+paradisiacal	Latin
+paradox	French
+paraffin	West Germanic
+paragon	French
+paralipsis	Greek
+parasitic	Latin
+parchment	French
+parenthetical	Latin
+paresis	Greek
+pariah	Romance (other)
+Parisian	French
+Parkinson&#x27;s disease	French
+parliament	French
+parse	French
+Parsee	Iranian
+parsley	Latin
+part	French
+partake	West Germanic
+parthenogenesis	Greek
+partial	French
+partiality	French
+partisan	French
+paschal	French
+passe	French
+passive	Latin
+passport	French
+paste	French
+pastern	French
+pasture	French
+paten	French
+paterfamilias	Latin
+pathologic	Greek
+pathology	French
+patio	Romance (other)
+patriarch	French
+patron	French
+patronym	Greek
+pattern	French
+Paul	Latin
+pauper	Latin
+pavan	French
+pavilion	French
+payer	French
+pea jacket	West Germanic
+pearl	French
+pebble	West Germanic
+peck	West Germanic
+pectoral	Latin
+peculation	Latin
+pedagogy	French
+pederast	French
+pedicel	Latin
+peer	West Germanic
+pelagic	Latin
+pelican	Latin
+pellicle	French
+peloton	French
+pelt	French
+penitential	Latin
+pentad	Greek
+pentathlon	Greek
+penultima	Latin
+penury	Latin
+peon	Romance (other)
+per	Latin
+peradventure	West Germanic
+perceivable	French
+perceive	Latin
+percent	Latin
+percept	Latin
+perceptive	Latin
+perch	French
+percipient	Latin
+percussive	Latin
+perfective	Latin
+perform	French
+perihelion	Latin
+period	French
+peripeteia	Greek
+periphrasis	Latin
+permutate	Latin
+peroration	Latin
+perpensity	Latin
+perpetuation	Latin
+perpetuous	Latin
+persevere	French
+persiflage	French
+person	French
+personality	Latin
+persuasive	French
+pert	French
+perturbation	French
+peruke	French
+perversity	French
+pesticide	West Germanic
+Peter	West Germanic
+petiole	French
+petit	French
+petrous	French
+pew	French
+pharaoh	Latin
+pharyngeal	Latin
+pharynx	Greek
+philanthropy	Latin
+philately	French
+Philemon	Greek
+philology	Latin
+philomel	Greek
+phlebo-	Greek
+phlegm	French
+-phobe	French
+phono-	Greek
+phosphoric	French
+phylactery	French
+phylo-	Greek
+physico-	Latin
+physiology	French
+piazza	Romance (other)
+picaroon	Romance (other)
+pickelhaube	West Germanic
+pickle	West Germanic
+pictorial	Latin
+piedmont	Romance (other)
+Pierian	Latin
+pietism	West Germanic
+piezo-	Greek
+pig	West Germanic
+pigeon	French
+pigment	Latin
+pika	Altaic
+pike	French
+pile	French
+Pilipino	East Asian
+pillar	French
+pincers	French
+pine	French
+pinion	French
+piolet	French
+pious	Latin
+pip	French
+pipe	Latin
+piquet	French
+piratical	Latin
+piscine	French
+piss	French
+pitch	West Germanic
+pitchfork	West Germanic
+pitheco-	Greek
+pituitary	Latin
+pivot	French
+pizza	Romance (other)
+plaint	French
+plaintive	French
+plait	French
+plane	French
+plane	Latin
+planetarium	Latin
+planetary	Latin
+planktology	West Germanic
+plankton	West Germanic
+plash	French
+plasmolysis	French
+platoon	French
+plein-air	French
+plenary	French
+pliable	French
+plinth	French
+pluperfect	Latin
+Pluto	Latin
+pneumonic	Latin
+Po	Latin
+poach	French
+podiatry	Greek
+poesy	French
+pogrom	West Germanic
+-poietic	Latin
+Polack	Slavic
+policlinic	West Germanic
+polity	French
+polygamy	Latin
+Polynesia	Greek
+polyphony	Greek
+pompano	Romance (other)
+pomposity	Latin
+pontifex	Latin
+poontang	French
+poor	French
+poppycock	West Germanic
+pornography	French
+porosity	French
+porpoise	French
+portcullis	French
+posada	Romance (other)
+position	French
+positive	French
+possibility	French
+possible	French
+post	French
+postulate	Latin
+posture	French
+potation	French
+potentate	French
+Potomac	other
+poultry	French
+powder	French
+practicum	Latin
+praetor	Latin
+praline	French
+prance	West Germanic
+praseodymium	Greek
+praxis	Latin
+preamble	French
+precious	French
+predicate	French
+prediction	French
+predictor	Latin
+preference	French
+preferential	Latin
+prefiguration	Latin
+prefigure	Latin
+pregnable	French
+prejudge	French
+premiere	French
+premium	Latin
+premonitory	Latin
+preparation	Latin
+preparatory	Latin
+presage	French
+presbyter	Latin
+prescient	French
+presentment	French
+preservative	French
+presidence	French
+presume	French
+presumptuous	French
+presupposition	French
+preterite	French
+pretermission	Latin
+pretermit	Latin
+prevenient	Latin
+prevention	French
+prevision	French
+price	French
+prim	French
+primacy	French
+primary	Latin
+primordial	Latin
+primrose	French
+Prince Charming	French
+prion	Greek
+prior	Latin
+prism	Latin
+prismatic	Greek
+prisoner	French
+pro rata	Latin
+probability	French
+probation	French
+probe	Latin
+proclaim	Latin
+prodromal	Latin
+prodrome	French
+profane	French
+profundity	French
+profuse	Latin
+profusion	French
+progeria	Greek
+progesterone	West Germanic
+project	Latin
+projectile	Latin
+proles	Latin
+prolific	French
+prolixity	French
+promenade	French
+promiscuous	Latin
+promnesia	Greek
+prompt	French
+prompt	Latin
+propane	French
+prophase	West Germanic
+prophet	French
+proportional	Latin
+proportionality	French
+proposition	French
+prorate	Latin
+prorogue	French
+proscribe	Latin
+prosecutor	Latin
+prospect	Latin
+prosperity	French
+prosthetic	Latin
+prostitute	Latin
+Protean	Greek
+protection	French
+protectionist	French
+Protestantism	French
+Proteus	Greek
+proto-	Greek
+protocol	French
+protoplasm	West Germanic
+protrusion	French
+proverbial	Latin
+provision	French
+prune	French
+Prussia	Slavic
+psilanthropism	Greek
+psilocybin	Latin
+psittacine	Latin
+psyche	Latin
+ptarmigan	Celtic
+ptero-	Greek
+Ptolemy	Greek
+ptosis	Greek
+puberty	French
+pubescence	Latin
+publication	French
+pueblo	Romance (other)
+puisne	French
+pulp	Latin
+pulpit	Latin
+puma	Romance (other)
+puncheon	French
+punctilio	Romance (other)
+punctuate	Latin
+pungent	Latin
+Punic	Latin
+punty	French
+purdah	Iranian
+pure	French
+purgatory	French
+purification	French
+purine	West Germanic
+purism	French
+purse	Latin
+pusillanimity	French
+pusillanimous	Latin
+puss	Celtic
+pustule	French
+putti	Romance (other)
+Pyanepsia	Greek
+pylon	Greek
+Pyrenees	French
+pyrophoric	Latin
+Pythia	Greek
+python	Latin
+qi	East Asian
+Quadragesima	Latin
+quadrant	French
+quadratus	Latin
+quantity	French
+quart	French
+quartile	French
+quartz	West Germanic
+quash	French
+quasimodo	Latin
+quatrain	French
+querulous	French
+questionnaire	French
+quetzal	Romance (other)
+quiche	French
+quiesce	Latin
+quietude	French
+quinary	Latin
+quinine	French
+quinta	Romance (other)
+quintessence	French
+quoit	French
+rabbet	French
+rabid	Latin
+radiation	French
+radical	Latin
+radicant	Latin
+raffle	French
+rag	North Germanic
+raga	Indian
+Ragnarok	North Germanic
+rally	French
+rampant	French
+rank	French
+rappel	French
+raptor	Latin
+rasher	West Germanic
+ratafia	French
+ratchet	French
+ratify	French
+ration	French
+rationale	Latin
+ravioli	West Germanic
+razor	French
+ream	West Germanic
+Rebecca	Latin
+recant	Latin
+recapitulation	French
+recede	French
+recension	Latin
+recent	Latin
+recess	Latin
+recessive	Latin
+reckon	West Germanic
+recommence	French
+reconquest	French
+recreation	French
+rectilinear	Latin
+rectitude	French
+rector	Latin
+rectum	Latin
+recusant	Latin
+redistribution	French
+redouble	French
+redoubt	French
+reet	English 
+referent	Latin
+reflect	French
+reflection	Latin
+regain	French
+regard	French
+regenerative	French
+regime	French
+regimen	French
+regurgitation	Latin
+reiterate	Latin
+reiteration	French
+rejoice	French
+rejoinder	French
+relate	French
+relative	French
+relator	Latin
+relay	French
+relict	French
+relinquish	French
+relish	French
+remand	French
+remanent	Latin
+remit	Latin
+remote	French
+remoulade	French
+Renaissance	French
+renegade	Romance (other)
+renege	Latin
+rennet	French
+renounce	French
+repel	French
+repetition	French
+replenish	French
+replete	French
+replica	Romance (other)
+reposition	Latin
+repository	Latin
+repousse	French
+reprehension	French
+reprehensive	Latin
+repress	Latin
+reprise	French
+reptile	French
+repugnant	French
+requiem	Latin
+research	French
+resect	Latin
+resent	French
+reservoir	French
+resident	French
+resign	French
+resilient	Latin
+resin	French
+resinous	Latin
+resoluble	Latin
+resolute	Latin
+resolution	French
+respect	French
+respective	Latin
+respiratory	Latin
+respond	French
+rest	French
+restore	French
+resultant	French
+resume	French
+resuscitation	French
+retard	French
+retardance	French
+rete	Latin
+retention	Latin
+reticent	Latin
+reticle	Latin
+reticulate	Latin
+retort	French
+retract	French
+retro	French
+retroactive	French
+retrograde	Latin
+reverberant	French
+reverberate	Latin
+reverend	French
+reverse	French
+review	French
+revile	French
+revolt	French
+Reynard	French
+rhabdomancy	Greek
+rhapsodomancy	French
+Rhineland	West Germanic
+Rhodes scholar	West Germanic
+Rhodes	Greek
+rhomboid	French
+rhyme	French
+ribbon	French
+Richard	French
+Rig veda	Indian
+rigatoni	Romance (other)
+ringleader	West Germanic
+rio	Romance (other)
+riot	French
+risque	French
+robe	French
+rococo	French
+Rolf	North Germanic
+Romania	Latin
+Rosicrucian	Latin
+Rosinante	Romance (other)
+rostrum	Latin
+rotavirus	Latin
+rotunda	Romance (other)
+rotundity	Latin
+roue	French
+rouge	French
+rue	French
+ruinous	French
+rule	French
+rumen	Latin
+ruminant	Latin
+runic	Latin
+rustic	Latin
+ruth	North Germanic
+Sabbath	Latin
+saccharine	Latin
+sacrament	French
+Sacramento	Romance (other)
+sacre bleu	French
+sadism	French
+safeguard	French
+saffron	French
+sagacity	French
+sagittal	Latin
+sahib	Indian
+salaam	Semitic
+salad	French
+salamander	French
+salami	Romance (other)
+Salem	Semitic
+Salic	French
+saliva	French
+salutation	French
+salute	Latin
+salvation	French
+sambo	Romance (other)
+samizdat	Slavic
+sangha	Indian
+sanguinary	French
+sanhedrim	Semitic
+Sanka	French
+sap	French
+sapience	French
+saponify	French
+sapphire	French
+sarcasm	Latin
+sassafras	Romance (other)
+Sassanid	Latin
+Satan	Latin
+satchel	French
+satiety	French
+satisfy	French
+sauce	French
+sauerkraut	West Germanic
+sauna	Uralic
+savory	French
+savory	Latin
+Saxon	Latin
+scab	West Germanic
+scald	French
+scalene	Latin
+scandal	French
+scandalize	French
+scapular	Latin
+scarab	French
+scaramouche	Romance (other)
+scare	North Germanic
+scarf	French
+scathe	North Germanic
+scheme	Latin
+schismatic	French
+schlemazel	West Germanic
+scholiast	Latin
+sciatica	Latin
+scion	French
+scirrhous	French
+scissors	French
+sclerosis	Latin
+scoliosis	Greek
+scopa	Latin
+scope	Romance (other)
+scorbutic	Latin
+score	North Germanic
+scram	West Germanic
+scrofulous	Latin
+scullion	French
+scut	North Germanic
+Scylla	Latin
+se-	Latin
+seance	French
+seat	North Germanic
+secant	Latin
+seclusive	Latin
+secondary	Latin
+secular	French
+secundine	Latin
+sedulous	Latin
+segregation	Latin
+seize	French
+selection	Latin
+selenium	Greek
+semantics	French
+semiology	Greek
+semper-	Latin
+senate	French
+senescent	Latin
+seneschal	French
+senile	French
+senora	Romance (other)
+sensorium	Latin
+sensual	French
+sentence	French
+separation	French
+September	Latin
+septum	Latin
+sepulchral	Latin
+sequence	French
+sequent	French
+sequential	Latin
+sequestration	Latin
+seraglio	Romance (other)
+serene	Latin
+serenity	French
+sericulture	French
+serotine	French
+serve	French
+serviceable	French
+serviette	French
+servitude	French
+sessile	Latin
+severe	French
+sextillion	Latin
+shag	West Germanic
+shah	Iranian
+shamefaced	West Germanic
+shawm	French
+sheet	West Germanic
+shelf	West Germanic
+shelve	West Germanic
+Sherlock	West Germanic
+Sherman	West Germanic
+shinny	Celtic
+shiver	West Germanic
+shogun	East Asian
+shoulder	West Germanic
+shrimp	North Germanic
+shun	West Germanic
+shyster	West Germanic
+sic	West Germanic
+sidereal	French
+Sidon	Greek
+silhouette	French
+simile	Latin
+similitude	French
+simoom	Semitic
+simulator	Latin
+simultaneous	Latin
+Singh	Indian
+single	French
+singspiel	West Germanic
+sinistrorse	Latin
+sinuous	Latin
+Sirius	Latin
+sirloin	French
+situate	Latin
+sitz-bath	West Germanic
+size	French
+skene	Celtic
+skeptic	French
+sketch	West Germanic
+skillet	French
+skull	North Germanic
+slalom	North Germanic
+slash	French
+slat	French
+slave	French
+sleigh	West Germanic
+sleuth	North Germanic
+slew	Celtic
+Slovak	French
+smile	West Germanic
+smirch	French
+smithereens	Celtic
+snape	North Germanic
+snipe	North Germanic
+snuff	West Germanic
+snuffle	West Germanic
+sobriquet	French
+soldiery	French
+solicitor	French
+solid	French
+solidary	French
+solipsism	Latin
+solitaire	French
+Solomon	Greek
+soluble	French
+-some	Greek
+somnolence	French
+Somnus	Latin
+sonata	Romance (other)
+sonnet	French
+Sonora	Romance (other)
+sophistic	Latin
+sorrel	French
+sot	French
+Sothic	French
+soubrette	French
+soutane	French
+spanner	West Germanic
+spar	French
+spar	West Germanic
+sparagmos	Greek
+sparrowhawk	West Germanic
+spectacle	French
+specter	French
+speculative	French
+sphincter	French
+spice	French
+spindle	West Germanic
+spinney	French
+spiral	French
+spirochete	Latin
+splint	West Germanic
+spondylitis	Latin
+spool	French
+sport	French
+sprinkle	West Germanic
+spume	French
+spunk	Celtic
+squat	French
+squeeze	West Germanic
+stability	French
+staccato	Romance (other)
+stalagmite	Latin
+stalk	West Germanic
+stamina	Latin
+stance	French
+stanch	French
+stannate	Latin
+stannic	Latin
+stanza	Romance (other)
+staphylococcus	Greek
+starch	West Germanic
+startle	West Germanic
+statistics	West Germanic
+statuary	Latin
+stavesacre	Latin
+steenbok	West Germanic
+Stella	Latin
+stellar	Latin
+stercoraceous	Latin
+sterility	French
+sternum	Greek
+stertorous	Latin
+stethoscope	French
+stew	French
+stiletto	Romance (other)
+still	West Germanic
+stimulation	Latin
+stipend	Latin
+stipendiary	Latin
+stirring	West Germanic
+stole	Latin
+story	French
+strategist	French
+stratography	Greek
+stratosphere	French
+street	Latin
+stringent	Latin
+study	French
+stupefy	Latin
+stupendous	Latin
+stutter	West Germanic
+Stygian	Latin
+stylite	Greek
+styptic	French
+subaltern	French
+subduct	Latin
+subjective	Latin
+submerge	French
+subreption	Latin
+subrogate	Latin
+subscription	French
+subsidiary	Latin
+substitute	Latin
+substitution	French
+substratum	Latin
+sudatorium	Latin
+suggest	Latin
+sulfurous	Latin
+sully	French
+sumac	French
+Sumatra	Indian
+summate	Latin
+summative	Latin
+super-	Latin
+superannuated	Latin
+supererogation	Latin
+superfluous	Latin
+superintend	Latin
+superlative	French
+supernal	French
+supernatural	Latin
+supersession	Latin
+supervene	Latin
+supervisor	Latin
+supinate	Latin
+supine	Latin
+supper	French
+supplicant	Latin
+supplication	French
+supply	French
+suppository	Latin
+supra-	Latin
+surcharge	French
+surcingle	French
+sure	French
+surgent	Latin
+surplice	French
+sustenance	French
+susurrant	Latin
+svelte	French
+Swabia	Latin
+swoon	West Germanic
+syllogistic	Latin
+sympathy	French
+symphony	French
+symphysis	Greek
+synchronism	Latin
+synchronize	Greek
+syncytial	Greek
+synonym	French
+synonymous	Latin
+synopsis	Latin
+syntactic	Latin
+syntagmatic	French
+system	Latin
+syzygy	Latin
+Szechwan	East Asian
+tabes	Latin
+tabulate	Latin
+tacet	Latin
+tack	French
+tactic	Latin
+taffrail	West Germanic
+tai chi	East Asian
+Tangier	Semitic
+tansy	French
+tardigrade	French
+tariff	Romance (other)
+tassel	French
+tattle	West Germanic
+tautology	Latin
+tectonic	Latin
+tedious	French
+tegument	Latin
+Telamon	Greek
+Telemachus	Latin
+tell	Semitic
+telos	Greek
+temblor	Romance (other)
+temperature	Latin
+tempestuous	Latin
+temporary	Latin
+tend	French
+tendency	Latin
+tenebrism	Romance (other)
+tenet	Latin
+terbium	Latin
+tercel	French
+term	French
+terminology	West Germanic
+ternary	Latin
+terra-cotta	Romance (other)
+terrible	French
+tertiary	Latin
+tessellated	Latin
+tessera	Latin
+tester	Latin
+tetany	French
+tetragrammaton	Greek
+Teutonic	Latin
+Texas	Romance (other)
+textual	French
+texture	French
+thaumaturge	Latin
+theft	West Germanic
+their	North Germanic
+Theodore	Latin
+Theodosia	Greek
+theology	French
+therapeutic	Latin
+Thermopylae	Greek
+thespian	Greek
+thrice	West Germanic
+throe	West Germanic
+thrombosis	Greek
+thyrsus	Latin
+thyself	West Germanic
+tick	West Germanic
+tier	French
+till	North Germanic
+till	West Germanic
+timid	French
+tinct	Latin
+titanium	Latin
+toast	French
+Tobias	Latin
+Tocharian	French
+tocsin	French
+tofu	East Asian
+told	West Germanic
+toleration	French
+toluene	West Germanic
+tombolo	Romance (other)
+topos	Greek
+torpor	Latin
+torrent	French
+tortfeasor	French
+tournament	French
+tout	West Germanic
+towel	French
+tower	Latin
+Trafalgar	Semitic
+tragedy	French
+tragi-comedy	French
+traitor	French
+trajectory	Latin
+trammel	French
+transcendent	Latin
+transcribe	Latin
+transcription	French
+transfigure	French
+transformation	French
+transgress	French
+transit	Latin
+transitory	French
+translucence	Latin
+transplantation	French
+trapeze	French
+trapezium	Latin
+trappings	West Germanic
+treachery	French
+treasure	French
+treat	French
+tri-	Latin
+triangulate	Latin
+triangulation	French
+tribe	French
+tribology	Greek
+tribulation	French
+trice	West Germanic
+trichotillomania	French
+trifid	Latin
+trifle	French
+triple	Latin
+trist	French
+Triton	Latin
+trituration	Latin
+trivial	Latin
+trochee	French
+troglodyte	French
+troop	French
+trophic	Greek
+troubadour	French
+truant	French
+truculent	Latin
+tryst	French
+tuberculous	Latin
+tuck	West Germanic
+tuft	French
+tumbrel	French
+tumultuous	French
+tunicate	Latin
+tuque	French
+turbidity	Latin
+turbot	French
+turn	French
+tutti-frutti	Romance (other)
+tutu	French
+tympanist	Latin
+tyrannize	French
+tyranny	French
+tyrant	French
+Tyrol	Celtic
+ubiquity	Latin
+ug	North Germanic
+uhlan	West Germanic
+ulna	Latin
+ultramontane	French
+ululation	Latin
+umbilicus	Latin
+umbo	Latin
+umlaut	West Germanic
+unary	Latin
+undulation	Latin
+unicorn	French
+unilateral	Latin
+universality	French
+upsilon	Greek
+upsy-daisy	West Germanic
+Ural	Uralic
+uretic	Latin
+urination	Latin
+Ursa	Latin
+urschleim	West Germanic
+ursine	Latin
+ursprache	West Germanic
+urticaria	Latin
+usable	French
+Ustashi	Slavic
+utile	French
+utility	French
+uxorious	Latin
+vacant	French
+vacate	Latin
+vacillation	Latin
+vacuity	Latin
+valence	Latin
+valerian	French
+valet	French
+valid	French
+validate	Latin
+valor	French
+valorous	French
+vamoose	Romance (other)
+vandalism	French
+vanguard	French
+vanilla	Romance (other)
+Varangian	Latin
+varve	North Germanic
+vascular	Latin
+vasectomy	Latin
+vast	French
+vates	Latin
+Veda	Indian
+vegetal	Latin
+vellum	French
+vena cava	Latin
+veneer	West Germanic
+ventral	French
+venue	French
+ver	French
+veracious	Latin
+verbiage	French
+verbose	Latin
+verboten	West Germanic
+vermicular	Latin
+vermiculation	Latin
+vernacular	Latin
+Versailles	Latin
+vert	Latin
+vertebrate	Latin
+vertex	Latin
+verve	French
+vessel	French
+vestibule	French
+vestige	French
+viatic	Latin
+vibrant	Latin
+vibration	Latin
+vibrato	Romance (other)
+vicegerent	Latin
+vicinage	French
+vigilance	French
+vigilante	Romance (other)
+Viking	North Germanic
+vilify	Latin
+villanelle	French
+vindictive	Latin
+vinegar	French
+Virgilian	Latin
+virginal	French
+Virgo	Latin
+virility	French
+virulence	Latin
+virulent	Latin
+viscera	Latin
+viscid	French
+vista	Romance (other)
+vita	West Germanic
+vital	Latin
+vitality	Latin
+vitrine	French
+vivisection	Latin
+viz.	Latin
+Vladimir	Slavic
+vocal	French
+voivode	Slavic
+volar	Latin
+volition	French
+volkslied	West Germanic
+volte-face	Romance (other)
+voluble	French
+volute	French
+vomit	Latin
+vortex	Latin
+votary	Latin
+votive	French
+vow	French
+Vulcan	Latin
+wagon	West Germanic
+waist	West Germanic
+wake	North Germanic
+wall	Latin
+wallah	Indian
+walrus	West Germanic
+wapentake	North Germanic
+war	French
+Warwickshire	West Germanic
+wave	West Germanic
+weak	North Germanic
+weet	West Germanic
+welt	North Germanic
+welter	West Germanic
+whimper	West Germanic
+whir	North Germanic
+whisker	West Germanic
+wiener	West Germanic
+Winnebago	other
+winnow	West Germanic
+wolfram	West Germanic
+wonton	East Asian
+xerosis	Greek
+xiphoid	Greek
+yaws	other
+yen	East Asian
+yeshiva	Semitic
+yet	West Germanic
+zebu	French
+zeitgeist	West Germanic
+Zenobia	Greek
+zephyr	West Germanic
+zest	French
+Zimbabwe	other
+zoic	Greek
+zoster	Greek
+zygomatic	Latin
