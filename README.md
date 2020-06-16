@@ -22,14 +22,13 @@ Currently a command-line tool for Unix/Linux systems. Developed with OpenJDK 13.
 	  > "adventure"@en
 
 		"adventure"@en  aventure   0.875000 1.000000 0.777778
+		                vendeur    0.500000 0.999997 0.333333
 		                adhérent   0.579403 0.605390 0.555556
-		                accentuer  0.505341 0.585576 0.444444
-		                adversaire 0.404759 0.339995 0.500000
-		                adverse    0.326851 0.258465 0.444444
-		                adjacent   0.316972 0.246323 0.444444
-		                aventurier 0.154761 0.088838 0.600000
-		                adverbe    0.178534 0.111703 0.444444
+						autrement  0.550724 0.723806 0.444444
+						avenant    0.540933 0.690935 0.444444
+						monture    0.537718 0.680539 0.444444
 		                ...
+
 	* **First column**: the requested word
 	* **Second column**: target language word (here, French)
 	* **Third column**: cognate score (*baseline*: harmonic mean between semantic and phonological similarity)
