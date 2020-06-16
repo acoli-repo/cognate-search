@@ -24,9 +24,9 @@ Currently a command-line tool for Unix/Linux systems. Developed with OpenJDK 13.
 		"adventure"@en  aventure   0.875000 1.000000 0.777778
 		                vendeur    0.500000 0.999997 0.333333
 		                adhérent   0.579403 0.605390 0.555556
-						autrement  0.550724 0.723806 0.444444
-						avenant    0.540933 0.690935 0.444444
-						monture    0.537718 0.680539 0.444444
+		                autrement  0.550724 0.723806 0.444444
+		                avenant    0.540933 0.690935 0.444444
+		                monture    0.537718 0.680539 0.444444
 		                ...
 
 	* **First column**: the requested word
