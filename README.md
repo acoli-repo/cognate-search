@@ -19,14 +19,14 @@ Currently a command-line tool for Unix/Linux systems. Developed with OpenJDK 13.
 
 	This will open an interactive dialogue, enter string with designation of source language (e.g., `en` for English):
  
-	  > "adventure"@en
+	  > "dangerous"@en
 
-		"adventure"@en  aventure   0.875000 1.000000 0.777778
-		                vendeur    0.500000 0.999997 0.333333
-		                adhérent   0.579403 0.605390 0.555556
-		                autrement  0.550724 0.723806 0.444444
-		                avenant    0.540933 0.690935 0.444444
-		                monture    0.537718 0.680539 0.444444
+		"dangerous"@en  danger         0.670120 0.673609 0.666667
+		                dangerosité    0.625332 0.673846 0.583333
+		                dangereux      0.594574 0.536553 0.666667
+		                dangereusement 0.558444 0.632358 0.500000
+		                étranger       0.523891 0.637922 0.444444
+		                arranger       0.518495 0.622155 0.444444
 		                ...
 
 	* **First column**: the requested word
